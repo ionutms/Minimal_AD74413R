@@ -1,0 +1,3 @@
+[submodule "minimal_ad74413r/KiCAD_Symbol_Generator"]
+	path = minimal_ad74413r/KiCAD_Symbol_Generator
+	url = https://github.com/ionutms/KiCAD_Symbol_Generator.git

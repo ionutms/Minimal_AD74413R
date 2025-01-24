@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 0.0,
+          "height": 7.6962,
+          "width": 7.6962
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -210,6 +210,10 @@
         {
           "diameter": 0.0,
           "drill": 0.0
+        },
+        {
+          "diameter": 0.508,
+          "drill": 0.254
         }
       ],
       "zones_allow_external_fillets": false
@@ -470,7 +474,25 @@
     "meta": {
       "version": 3
     },
-    "net_colors": null,
+    "net_colors": {
+      "/CHANNEL_1": "rgb(0, 194, 0)",
+      "/CHANNEL_2": "rgb(0, 194, 194)",
+      "/CHANNEL_3": "rgb(194, 0, 0)",
+      "/CHANNEL_4": "rgb(194, 0, 194)",
+      "/SENSEHF_A": "rgb(0, 194, 0)",
+      "/SENSEHF_B": "rgb(0, 194, 194)",
+      "/SENSEHF_C": "rgb(194, 0, 0)",
+      "/SENSEHF_D": "rgb(194, 0, 194)",
+      "/SENSELF_A": "rgb(0, 194, 0)",
+      "/SENSELF_B": "rgb(0, 194, 194)",
+      "/SENSELF_C": "rgb(194, 0, 0)",
+      "/SENSELF_D": "rgb(194, 0, 194)",
+      "/SENSEL_A": "rgb(0, 194, 0)",
+      "/SENSEL_B": "rgb(0, 194, 194)",
+      "/SENSEL_C": "rgb(194, 0, 0)",
+      "/SENSEL_D": "rgb(194, 0, 194)",
+      "GNDA": "rgb(72, 72, 72)"
+    },
     "netclass_assignments": null,
     "netclass_patterns": []
   },
@@ -591,6 +613,22 @@
     [
       "3d1a8eae-9f4e-4ae3-8a80-a6e3408e9f8d",
       "Root"
+    ],
+    [
+      "471bb7b7-cd79-4b45-b5fa-ce18ba37980a",
+      "Front End Channel 1"
+    ],
+    [
+      "ed3c01a7-dc5a-420d-9436-94dfdef482d0",
+      "Front End Channel 2"
+    ],
+    [
+      "215a75b8-84cc-467b-b211-24faa4125349",
+      "Front End Channel 3"
+    ],
+    [
+      "77ed2068-19f4-4838-81a2-88ec2b717aa2",
+      "Front End Channel 4"
     ]
   ],
   "text_variables": {}

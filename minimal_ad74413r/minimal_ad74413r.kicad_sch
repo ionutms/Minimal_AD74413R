@@ -2735,6 +2735,12 @@
 		(uuid "4349245b-3c8a-4d8e-819d-f9f22bc031c6")
 	)
 	(junction
+		(at 187.96 20.32)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "51c8918d-1dd9-4de4-ae69-e3024fc37b5f")
+	)
+	(junction
 		(at 203.2 223.52)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2753,10 +2759,22 @@
 		(uuid "765336b7-ea28-418c-8156-2c406af0a873")
 	)
 	(junction
+		(at 190.5 20.32)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "766d245d-5999-445a-a1b9-e2fbc5637a78")
+	)
+	(junction
 		(at 287.02 172.72)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "76ae5fd2-9c36-47a7-9f9e-605aaf92a518")
+	)
+	(junction
+		(at 226.06 20.32)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7de33abc-6ad4-410f-8bd0-f25eb6c31e2b")
 	)
 	(junction
 		(at 203.2 40.64)
@@ -2789,10 +2807,22 @@
 		(uuid "9251badb-24d1-47f4-9b99-9b46722f416c")
 	)
 	(junction
+		(at 228.6 33.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "964a0b7b-78bb-4e58-be31-74c92ae8eda6")
+	)
+	(junction
 		(at 167.64 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "96dcaa5e-36af-4188-b842-052782736a1b")
+	)
+	(junction
+		(at 187.96 33.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9721ae89-7140-44ff-8c24-8f7b6d2be2f2")
 	)
 	(junction
 		(at 200.66 223.52)
@@ -2915,6 +2945,12 @@
 		(uuid "f70d73bb-e93c-413b-ab32-f3b46284bf7c")
 	)
 	(junction
+		(at 228.6 20.32)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f9d90ae2-cf3a-4feb-834a-18c62c9ef6a7")
+	)
+	(junction
 		(at 287.02 144.78)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2945,6 +2981,26 @@
 			(type default)
 		)
 		(uuid "00677d86-d204-4f95-8940-f9f9a4eb223c")
+	)
+	(wire
+		(pts
+			(xy 228.6 31.75) (xy 228.6 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "02f3c826-53b0-42fc-8ffa-d73e96deea98")
+	)
+	(wire
+		(pts
+			(xy 190.5 20.32) (xy 190.5 21.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "05c381af-b3b8-4ed6-afe5-d37dbf6f26a6")
 	)
 	(wire
 		(pts
@@ -2988,13 +3044,23 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 29.21) (xy 205.74 25.4)
+			(xy 228.6 34.29) (xy 228.6 33.02)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "0b6adb91-6f90-44ce-809a-085c5de2e188")
+	)
+	(wire
+		(pts
+			(xy 226.06 20.32) (xy 203.2 20.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0bb6f4c8-4f0f-43ec-9a15-7183f2690f1c")
 	)
 	(wire
 		(pts
@@ -3038,7 +3104,7 @@
 	)
 	(wire
 		(pts
-			(xy 200.66 22.86) (xy 200.66 48.26)
+			(xy 200.66 20.32) (xy 200.66 48.26)
 		)
 		(stroke
 			(width 0)
@@ -3098,16 +3164,6 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 25.4) (xy 195.58 25.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "169b2f14-9548-4a71-995b-ffb7f5801c02")
-	)
-	(wire
-		(pts
 			(xy 269.24 160.02) (xy 284.48 160.02)
 		)
 		(stroke
@@ -3138,6 +3194,16 @@
 	)
 	(wire
 		(pts
+			(xy 187.96 20.32) (xy 190.5 20.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1cd194fd-0e96-4339-b2ff-aa16821800a1")
+	)
+	(wire
+		(pts
 			(xy 213.36 81.28) (xy 223.52 81.28)
 		)
 		(stroke
@@ -3145,6 +3211,16 @@
 			(type default)
 		)
 		(uuid "1cefd508-855e-4f50-8913-54afada2962f")
+	)
+	(wire
+		(pts
+			(xy 190.5 31.75) (xy 190.5 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1cf87109-aa72-4bfd-ba88-ab9b5deca0ae")
 	)
 	(wire
 		(pts
@@ -3285,6 +3361,16 @@
 			(type default)
 		)
 		(uuid "35178384-f985-41dd-af0e-974964496175")
+	)
+	(wire
+		(pts
+			(xy 228.6 20.32) (xy 228.6 21.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "37aef650-35d1-43d3-82d0-aacfe5229eac")
 	)
 	(wire
 		(pts
@@ -3478,6 +3564,16 @@
 	)
 	(wire
 		(pts
+			(xy 228.6 33.02) (xy 226.06 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5261ac60-9205-458b-b057-685ee5e551aa")
+	)
+	(wire
+		(pts
 			(xy 284.48 200.66) (xy 287.02 200.66)
 		)
 		(stroke
@@ -3488,7 +3584,7 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 22.86) (xy 203.2 40.64)
+			(xy 203.2 20.32) (xy 203.2 40.64)
 		)
 		(stroke
 			(width 0)
@@ -3525,6 +3621,16 @@
 			(type default)
 		)
 		(uuid "58969705-62f3-4ff9-aa79-3e14ef006ed8")
+	)
+	(wire
+		(pts
+			(xy 182.88 33.02) (xy 187.96 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5a04e83e-2963-4493-8807-becf8e6c446a")
 	)
 	(wire
 		(pts
@@ -3568,7 +3674,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 22.86) (xy 203.2 22.86)
+			(xy 233.68 20.32) (xy 228.6 20.32)
 		)
 		(stroke
 			(width 0)
@@ -3878,7 +3984,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 29.21) (xy 198.12 25.4)
+			(xy 187.96 34.29) (xy 187.96 33.02)
 		)
 		(stroke
 			(width 0)
@@ -3925,6 +4031,16 @@
 			(type default)
 		)
 		(uuid "85029fcb-35a2-489c-a13a-c39142f79583")
+	)
+	(wire
+		(pts
+			(xy 226.06 20.32) (xy 226.06 21.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "85069d65-ff16-45c8-b8bb-94e29b752518")
 	)
 	(wire
 		(pts
@@ -4005,6 +4121,16 @@
 			(type default)
 		)
 		(uuid "8d604ead-63e5-4784-bf71-d25324dc39e1")
+	)
+	(wire
+		(pts
+			(xy 226.06 31.75) (xy 226.06 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8fa1dbeb-2014-4863-8484-46b035920ac7")
 	)
 	(wire
 		(pts
@@ -4128,7 +4254,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 22.86) (xy 200.66 22.86)
+			(xy 182.88 20.32) (xy 187.96 20.32)
 		)
 		(stroke
 			(width 0)
@@ -4208,6 +4334,16 @@
 	)
 	(wire
 		(pts
+			(xy 228.6 33.02) (xy 233.68 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ab8a1523-0c7a-4024-847a-d757773124e5")
+	)
+	(wire
+		(pts
 			(xy 195.58 88.9) (xy 195.58 76.2)
 		)
 		(stroke
@@ -4225,6 +4361,16 @@
 			(type default)
 		)
 		(uuid "acb51dc6-1684-4def-b495-df6b594f296c")
+	)
+	(wire
+		(pts
+			(xy 187.96 33.02) (xy 190.5 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "acd8ea0d-b103-4169-a1ed-367fa43d78bc")
 	)
 	(wire
 		(pts
@@ -4295,6 +4441,16 @@
 			(type default)
 		)
 		(uuid "b6b01e18-8957-46fd-a621-bb056ae404fa")
+	)
+	(wire
+		(pts
+			(xy 228.6 20.32) (xy 226.06 20.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b7911284-97d4-4d18-a891-39dafd7fdced")
 	)
 	(wire
 		(pts
@@ -4478,6 +4634,16 @@
 	)
 	(wire
 		(pts
+			(xy 187.96 20.32) (xy 187.96 21.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cce3ed40-2638-41cb-9d52-7626c3adf0dd")
+	)
+	(wire
+		(pts
 			(xy 284.48 144.78) (xy 287.02 144.78)
 		)
 		(stroke
@@ -4535,16 +4701,6 @@
 			(type default)
 		)
 		(uuid "d3acc64b-8ad4-4de2-9b85-311866698d40")
-	)
-	(wire
-		(pts
-			(xy 205.74 25.4) (xy 208.28 25.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d6e4ebe3-5620-4505-88b1-cfb8f8d8f2b5")
 	)
 	(wire
 		(pts
@@ -4748,6 +4904,16 @@
 	)
 	(wire
 		(pts
+			(xy 187.96 31.75) (xy 187.96 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "efa326bf-2b25-47e0-a712-2b0e7a311bc6")
+	)
+	(wire
+		(pts
 			(xy 213.36 81.28) (xy 213.36 91.44)
 		)
 		(stroke
@@ -4765,6 +4931,16 @@
 			(type default)
 		)
 		(uuid "f287c970-d4b2-40f4-bc57-79f6b0cb0cfd")
+	)
+	(wire
+		(pts
+			(xy 190.5 20.32) (xy 200.66 20.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f4037087-2a77-4e69-be61-21a2eac802c8")
 	)
 	(wire
 		(pts
@@ -5458,7 +5634,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDA")
-		(at 205.74 29.21 0)
+		(at 228.6 34.29 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5468,7 +5644,7 @@
 		(fields_autoplaced yes)
 		(uuid "006874bf-c1a2-4ddf-bf75-321eb2507b3e")
 		(property "Reference" "#PWR027"
-			(at 205.74 35.56 0)
+			(at 228.6 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5477,7 +5653,7 @@
 			)
 		)
 		(property "Value" "GNDA"
-			(at 208.28 30.4799 0)
+			(at 231.14 35.5599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5486,7 +5662,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 205.74 29.21 0)
+			(at 228.6 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5495,7 +5671,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 205.74 29.21 0)
+			(at 228.6 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5504,7 +5680,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GNDA\" , analog ground"
-			(at 205.74 29.21 0)
+			(at 228.6 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5526,7 +5702,7 @@
 	)
 	(symbol
 		(lib_id "UNITED_TEST_POINTS:TestPoint_Castelated")
-		(at 195.58 22.86 90)
+		(at 182.88 20.32 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5535,7 +5711,7 @@
 		(dnp no)
 		(uuid "0254a63e-585e-4577-96e2-a696d908cbb3")
 		(property "Reference" "TP23"
-			(at 191.008 22.86 90)
+			(at 178.308 20.32 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5544,7 +5720,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 193.04 25.4 0)
+			(at 180.34 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5554,7 +5730,7 @@
 			)
 		)
 		(property "Footprint" "test_point_footprints:TestPoint_THTPad_Castelated"
-			(at 200.66 25.4 0)
+			(at 187.96 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5564,7 +5740,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 195.58 25.4 0)
+			(at 182.88 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5574,7 +5750,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 198.12 25.4 0)
+			(at 185.42 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8350,7 +8526,7 @@
 	)
 	(symbol
 		(lib_id "UNITED_TEST_POINTS:TestPoint_Castelated")
-		(at 208.28 25.4 270)
+		(at 233.68 33.02 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8359,7 +8535,7 @@
 		(dnp no)
 		(uuid "6c93a10f-e233-4a46-b19b-65d645db9c5a")
 		(property "Reference" "TP25"
-			(at 212.852 25.4 90)
+			(at 238.252 33.02 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8368,7 +8544,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 210.82 22.86 0)
+			(at 236.22 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8378,7 +8554,7 @@
 			)
 		)
 		(property "Footprint" "test_point_footprints:TestPoint_THTPad_Castelated"
-			(at 203.2 22.86 0)
+			(at 228.6 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8388,7 +8564,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 208.28 22.86 0)
+			(at 233.68 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8398,7 +8574,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 205.74 22.86 0)
+			(at 231.14 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8622,6 +8798,242 @@
 			(project "minimal_ad74413r"
 				(path "/3d1a8eae-9f4e-4ae3-8a80-a6e3408e9f8d"
 					(reference "TP13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "UNITED_CONNECTORS_DATA_BASE:J_CLP-102-02-G-D-BE")
+		(at 227.33 26.67 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "809a6fab-8ed5-49d5-9213-6a7536c34752")
+		(property "Reference" "J6"
+			(at 232.41 25.3999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "CLP-102-02-G-D-BE"
+			(at 232.41 27.9399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "connector_footprints:CLP-102-02-G-D-BE"
+			(at 234.95 31.75 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://suddendocs.samtec.com/catalog_english/clp_sm.pdf?_gl=1*1y4jlr9*_gcl_au*MTM0MTYyNTQ5MS4xNzM2MDk5MTUz*_ga*MTYxNDYyMTQ0Mi4xNzM2MDk5MTUz*_ga_3KFNZC07WW*MTczNjY4MDQ4OS4xNS4xLjE3MzY2ODEzNzcuNjAuMC4w"
+			(at 237.49 31.75 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "Samtec CLP-1xx-02-G-D-BE series,  2 positions connector,  1.27 mm pitch,  Black,  Vertical mounting,  5.2 A,  300 V,  Through Hole,  Tin plated"
+			(at 240.03 31.75 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Color" "Black"
+			(at 242.57 31.75 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Contact Plating" "Tin"
+			(at 245.11 31.75 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Current Rating (A)" "5.2"
+			(at 247.65 31.75 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CLP-102-02-G-D-BE"
+			(at 250.19 31.75 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samtec"
+			(at 252.73 31.75 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mounting Angle" "Vertical"
+			(at 255.27 31.75 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mounting Style" "Through Hole"
+			(at 257.81 31.75 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Number of Rows" "2"
+			(at 260.35 31.75 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Pin Count" "2"
+			(at 262.89 31.75 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Pitch (mm)" "1.27"
+			(at 265.43 31.75 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Series" "CLP-1xx-02-G-D-BE"
+			(at 267.97 31.75 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Symbol Name" "J_CLP-102-02-G-D-BE"
+			(at 270.51 31.75 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/CLP-102-02-G-D-BE"
+			(at 273.05 31.75 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating (V)" "300"
+			(at 275.59 31.75 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "e9a8bd19-4171-48df-aa0a-9271b177f7f9")
+		)
+		(pin "1"
+			(uuid "4cb30049-41f5-4794-8ccf-55cc6878f643")
+		)
+		(pin "2"
+			(uuid "8900d1a8-b65f-4edf-a95f-624961a953f4")
+		)
+		(pin "3"
+			(uuid "bb3ac4c4-998f-4e66-ad59-ad057a10f403")
+		)
+		(instances
+			(project "minimal_ad74413r"
+				(path "/3d1a8eae-9f4e-4ae3-8a80-a6e3408e9f8d"
+					(reference "J6")
 					(unit 1)
 				)
 			)
@@ -9961,6 +10373,242 @@
 		)
 	)
 	(symbol
+		(lib_id "UNITED_CONNECTORS_DATA_BASE:J_CLP-102-02-G-D-BE")
+		(at 189.23 26.67 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "aac7d346-e06b-499f-b595-2ed012c575e8")
+		(property "Reference" "J5"
+			(at 184.15 27.9401 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "CLP-102-02-G-D-BE"
+			(at 184.15 25.4001 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "connector_footprints:CLP-102-02-G-D-BE"
+			(at 181.61 21.59 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://suddendocs.samtec.com/catalog_english/clp_sm.pdf?_gl=1*1y4jlr9*_gcl_au*MTM0MTYyNTQ5MS4xNzM2MDk5MTUz*_ga*MTYxNDYyMTQ0Mi4xNzM2MDk5MTUz*_ga_3KFNZC07WW*MTczNjY4MDQ4OS4xNS4xLjE3MzY2ODEzNzcuNjAuMC4w"
+			(at 179.07 21.59 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "Samtec CLP-1xx-02-G-D-BE series,  2 positions connector,  1.27 mm pitch,  Black,  Vertical mounting,  5.2 A,  300 V,  Through Hole,  Tin plated"
+			(at 176.53 21.59 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Color" "Black"
+			(at 173.99 21.59 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Contact Plating" "Tin"
+			(at 171.45 21.59 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Current Rating (A)" "5.2"
+			(at 168.91 21.59 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CLP-102-02-G-D-BE"
+			(at 166.37 21.59 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samtec"
+			(at 163.83 21.59 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mounting Angle" "Vertical"
+			(at 161.29 21.59 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mounting Style" "Through Hole"
+			(at 158.75 21.59 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Number of Rows" "2"
+			(at 156.21 21.59 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Pin Count" "2"
+			(at 153.67 21.59 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Pitch (mm)" "1.27"
+			(at 151.13 21.59 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Series" "CLP-1xx-02-G-D-BE"
+			(at 148.59 21.59 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Symbol Name" "J_CLP-102-02-G-D-BE"
+			(at 146.05 21.59 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/CLP-102-02-G-D-BE"
+			(at 143.51 21.59 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating (V)" "300"
+			(at 140.97 21.59 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "73c2192f-1d56-4105-8599-b0891a2e418d")
+		)
+		(pin "1"
+			(uuid "dcc58048-ae21-4b21-bfb9-94812e9cc5f6")
+		)
+		(pin "2"
+			(uuid "b5cdfede-882f-4671-a670-47f73f1813b2")
+		)
+		(pin "3"
+			(uuid "4104f881-2639-4fd2-bf1b-065d28aa50cf")
+		)
+		(instances
+			(project "minimal_ad74413r"
+				(path "/3d1a8eae-9f4e-4ae3-8a80-a6e3408e9f8d"
+					(reference "J5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "UNITED_CAPACITORS_DATA_BASE:C_CL31B106KBHNNN#")
 		(at 176.53 71.12 180)
 		(unit 1)
@@ -11234,7 +11882,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDA")
-		(at 198.12 29.21 0)
+		(at 187.96 34.29 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11242,7 +11890,7 @@
 		(dnp no)
 		(uuid "dd4dea8c-5875-469e-9d84-cf6c21470498")
 		(property "Reference" "#PWR028"
-			(at 198.12 35.56 0)
+			(at 187.96 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11251,7 +11899,7 @@
 			)
 		)
 		(property "Value" "GNDA"
-			(at 195.58 30.4799 0)
+			(at 185.42 35.5599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11260,7 +11908,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 198.12 29.21 0)
+			(at 187.96 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11269,7 +11917,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 198.12 29.21 0)
+			(at 187.96 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11278,7 +11926,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GNDA\" , analog ground"
-			(at 198.12 29.21 0)
+			(at 187.96 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11366,7 +12014,7 @@
 	)
 	(symbol
 		(lib_id "UNITED_TEST_POINTS:TestPoint_Castelated")
-		(at 208.28 22.86 270)
+		(at 233.68 20.32 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11375,7 +12023,7 @@
 		(dnp no)
 		(uuid "df824e09-81c5-4bd5-ad32-dc5b033c6680")
 		(property "Reference" "TP24"
-			(at 212.852 22.86 90)
+			(at 238.252 20.32 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11384,7 +12032,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 210.82 20.32 0)
+			(at 236.22 17.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11394,7 +12042,7 @@
 			)
 		)
 		(property "Footprint" "test_point_footprints:TestPoint_THTPad_Castelated"
-			(at 203.2 20.32 0)
+			(at 228.6 17.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11404,7 +12052,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 208.28 20.32 0)
+			(at 233.68 17.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11414,7 +12062,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 205.74 20.32 0)
+			(at 231.14 17.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12552,7 +13200,7 @@
 	)
 	(symbol
 		(lib_id "UNITED_TEST_POINTS:TestPoint_Castelated")
-		(at 195.58 25.4 90)
+		(at 182.88 33.02 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12561,7 +13209,7 @@
 		(dnp no)
 		(uuid "fe5549e2-dbda-40d9-aea4-b443fe5d3b05")
 		(property "Reference" "TP26"
-			(at 191.008 25.4 90)
+			(at 178.308 33.02 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12570,7 +13218,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 193.04 27.94 0)
+			(at 180.34 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12580,7 +13228,7 @@
 			)
 		)
 		(property "Footprint" "test_point_footprints:TestPoint_THTPad_Castelated"
-			(at 200.66 27.94 0)
+			(at 187.96 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12590,7 +13238,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 195.58 27.94 0)
+			(at 182.88 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12600,7 +13248,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 198.12 27.94 0)
+			(at 185.42 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)

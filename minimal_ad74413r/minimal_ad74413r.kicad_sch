@@ -937,7 +937,7 @@
 				)
 			)
 		)
-		(symbol "UNITED_CONNECTORS_DATA_BASE:J_CLP-102-02-G-D-BE"
+		(symbol "UNITED_CONNECTORS_DATA_BASE:J_FW-02-03-G-D-085-315"
 			(pin_names
 				(offset 0.254)
 			)
@@ -953,7 +953,7 @@
 					(justify left)
 				)
 			)
-			(property "Value" "CLP-102-02-G-D-BE"
+			(property "Value" "FW-02-03-G-D-085-315"
 				(at 5.08 -5.08 0)
 				(effects
 					(font
@@ -962,7 +962,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "connector_footprints:CLP-102-02-G-D-BE"
+			(property "Footprint" "connector_footprints:FW-02-03-G-D-085-315"
 				(at 5.08 -7.62 0)
 				(show_name)
 				(effects
@@ -973,7 +973,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "https://suddendocs.samtec.com/catalog_english/clp_sm.pdf?_gl=1*1y4jlr9*_gcl_au*MTM0MTYyNTQ5MS4xNzM2MDk5MTUz*_ga*MTYxNDYyMTQ0Mi4xNzM2MDk5MTUz*_ga_3KFNZC07WW*MTczNjY4MDQ4OS4xNS4xLjE3MzY2ODEzNzcuNjAuMC4w"
+			(property "Datasheet" "https://suddendocs.samtec.com/catalog_english/fw_sm.pdf?_gl=1*1xtxv9c*_gcl_au*MTM0MTYyNTQ5MS4xNzM2MDk5MTUz*_ga*MTYxNDYyMTQ0Mi4xNzM2MDk5MTUz*_ga_3KFNZC07WW*MTczODE2NTI0NS4zMi4xLjE3MzgxNjU1NjMuNjAuMC4w"
 				(at 5.08 -10.16 0)
 				(show_name)
 				(effects
@@ -984,7 +984,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Samtec CLP-1xx-02-G-D-BE series,  2 positions connector,  1.27 mm pitch,  Black,  Vertical mounting,  5.2 A,  300 V,  Through Hole,  Tin plated"
+			(property "Description" "Samtec FW-xx-03-G-D-085-315 series,  2 positions connector,  1.27 mm pitch,  Black,  Vertical mounting,  5.2 A,  300 V,  Surface Mount,  Gold plated"
 				(at 5.08 -12.7 0)
 				(show_name)
 				(effects
@@ -1006,7 +1006,7 @@
 					(hide yes)
 				)
 			)
-			(property "Contact Plating" "Tin"
+			(property "Contact Plating" "Gold"
 				(at 5.08 -17.78 0)
 				(show_name)
 				(effects
@@ -1028,7 +1028,7 @@
 					(hide yes)
 				)
 			)
-			(property "MPN" "CLP-102-02-G-D-BE"
+			(property "MPN" "FW-02-03-G-D-085-315"
 				(at 5.08 -22.86 0)
 				(show_name)
 				(effects
@@ -1061,7 +1061,7 @@
 					(hide yes)
 				)
 			)
-			(property "Mounting Style" "Through Hole"
+			(property "Mounting Style" "Surface Mount"
 				(at 5.08 -30.48 0)
 				(show_name)
 				(effects
@@ -1105,7 +1105,7 @@
 					(hide yes)
 				)
 			)
-			(property "Series" "CLP-1xx-02-G-D-BE"
+			(property "Series" "FW-xx-03-G-D-085-315"
 				(at 5.08 -40.64 0)
 				(show_name)
 				(effects
@@ -1116,7 +1116,7 @@
 					(hide yes)
 				)
 			)
-			(property "Symbol Name" "J_CLP-102-02-G-D-BE"
+			(property "Symbol Name" "J_FW-02-03-G-D-085-315"
 				(at 5.08 -43.18 0)
 				(show_name)
 				(effects
@@ -1127,7 +1127,7 @@
 					(hide yes)
 				)
 			)
-			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/CLP-102-02-G-D-BE"
+			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/FW-02-03-G-D-085-315"
 				(at 5.08 -45.72 0)
 				(show_name)
 				(effects
@@ -1149,7 +1149,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "J_CLP-102-02-G-D-BE_0_0"
+			(symbol "J_FW-02-03-G-D-085-315_0_0"
 				(pin unspecified line
 					(at -5.08 1.27 0)
 					(length 2.54)
@@ -1223,7 +1223,7 @@
 					)
 				)
 			)
-			(symbol "J_CLP-102-02-G-D-BE_1_0"
+			(symbol "J_FW-02-03-G-D-085-315_1_0"
 				(rectangle
 					(start -2.54 3.81)
 					(end 2.54 -3.81)
@@ -1237,7 +1237,7 @@
 				)
 			)
 		)
-		(symbol "UNITED_CONNECTORS_DATA_BASE:J_CLP-104-02-G-D-BE"
+		(symbol "UNITED_CONNECTORS_DATA_BASE:J_FW-04-03-G-D-085-315"
 			(pin_names
 				(offset 0.254)
 			)
@@ -1253,7 +1253,7 @@
 					(justify left)
 				)
 			)
-			(property "Value" "CLP-104-02-G-D-BE"
+			(property "Value" "FW-04-03-G-D-085-315"
 				(at 5.08 -7.62 0)
 				(effects
 					(font
@@ -1262,7 +1262,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "connector_footprints:CLP-104-02-G-D-BE"
+			(property "Footprint" "connector_footprints:FW-04-03-G-D-085-315"
 				(at 5.08 -10.16 0)
 				(show_name)
 				(effects
@@ -1273,7 +1273,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "https://suddendocs.samtec.com/catalog_english/clp_sm.pdf?_gl=1*1y4jlr9*_gcl_au*MTM0MTYyNTQ5MS4xNzM2MDk5MTUz*_ga*MTYxNDYyMTQ0Mi4xNzM2MDk5MTUz*_ga_3KFNZC07WW*MTczNjY4MDQ4OS4xNS4xLjE3MzY2ODEzNzcuNjAuMC4w"
+			(property "Datasheet" "https://suddendocs.samtec.com/catalog_english/fw_sm.pdf?_gl=1*1xtxv9c*_gcl_au*MTM0MTYyNTQ5MS4xNzM2MDk5MTUz*_ga*MTYxNDYyMTQ0Mi4xNzM2MDk5MTUz*_ga_3KFNZC07WW*MTczODE2NTI0NS4zMi4xLjE3MzgxNjU1NjMuNjAuMC4w"
 				(at 5.08 -12.7 0)
 				(show_name)
 				(effects
@@ -1284,7 +1284,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Samtec CLP-1xx-02-G-D-BE series,  4 positions connector,  1.27 mm pitch,  Black,  Vertical mounting,  5.2 A,  300 V,  Through Hole,  Tin plated"
+			(property "Description" "Samtec FW-xx-03-G-D-085-315 series,  4 positions connector,  1.27 mm pitch,  Black,  Vertical mounting,  5.2 A,  300 V,  Surface Mount,  Gold plated"
 				(at 5.08 -15.24 0)
 				(show_name)
 				(effects
@@ -1306,7 +1306,7 @@
 					(hide yes)
 				)
 			)
-			(property "Contact Plating" "Tin"
+			(property "Contact Plating" "Gold"
 				(at 5.08 -20.32 0)
 				(show_name)
 				(effects
@@ -1328,7 +1328,7 @@
 					(hide yes)
 				)
 			)
-			(property "MPN" "CLP-104-02-G-D-BE"
+			(property "MPN" "FW-04-03-G-D-085-315"
 				(at 5.08 -25.4 0)
 				(show_name)
 				(effects
@@ -1361,7 +1361,7 @@
 					(hide yes)
 				)
 			)
-			(property "Mounting Style" "Through Hole"
+			(property "Mounting Style" "Surface Mount"
 				(at 5.08 -33.02 0)
 				(show_name)
 				(effects
@@ -1405,7 +1405,7 @@
 					(hide yes)
 				)
 			)
-			(property "Series" "CLP-1xx-02-G-D-BE"
+			(property "Series" "FW-xx-03-G-D-085-315"
 				(at 5.08 -43.18 0)
 				(show_name)
 				(effects
@@ -1416,7 +1416,7 @@
 					(hide yes)
 				)
 			)
-			(property "Symbol Name" "J_CLP-104-02-G-D-BE"
+			(property "Symbol Name" "J_FW-04-03-G-D-085-315"
 				(at 5.08 -45.72 0)
 				(show_name)
 				(effects
@@ -1427,7 +1427,7 @@
 					(hide yes)
 				)
 			)
-			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/CLP-104-02-G-D-BE"
+			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/FW-04-03-G-D-085-315"
 				(at 5.08 -48.26 0)
 				(show_name)
 				(effects
@@ -1449,7 +1449,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "J_CLP-104-02-G-D-BE_0_0"
+			(symbol "J_FW-04-03-G-D-085-315_0_0"
 				(pin unspecified line
 					(at -5.08 3.81 0)
 					(length 2.54)
@@ -1595,7 +1595,7 @@
 					)
 				)
 			)
-			(symbol "J_CLP-104-02-G-D-BE_1_0"
+			(symbol "J_FW-04-03-G-D-085-315_1_0"
 				(rectangle
 					(start -2.54 6.35)
 					(end 2.54 -6.35)
@@ -1609,7 +1609,7 @@
 				)
 			)
 		)
-		(symbol "UNITED_CONNECTORS_DATA_BASE:J_CLP-114-02-G-D-BE"
+		(symbol "UNITED_CONNECTORS_DATA_BASE:J_FW-14-03-G-D-085-155"
 			(pin_names
 				(offset 0.254)
 			)
@@ -1625,7 +1625,7 @@
 					(justify left)
 				)
 			)
-			(property "Value" "CLP-114-02-G-D-BE"
+			(property "Value" "FW-14-03-G-D-085-155"
 				(at 5.08 -20.32 0)
 				(effects
 					(font
@@ -1634,7 +1634,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "connector_footprints:CLP-114-02-G-D-BE"
+			(property "Footprint" "connector_footprints:FW-14-03-G-D-085-155"
 				(at 5.08 -22.86 0)
 				(show_name)
 				(effects
@@ -1645,7 +1645,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "https://suddendocs.samtec.com/catalog_english/clp_sm.pdf?_gl=1*1y4jlr9*_gcl_au*MTM0MTYyNTQ5MS4xNzM2MDk5MTUz*_ga*MTYxNDYyMTQ0Mi4xNzM2MDk5MTUz*_ga_3KFNZC07WW*MTczNjY4MDQ4OS4xNS4xLjE3MzY2ODEzNzcuNjAuMC4w"
+			(property "Datasheet" "https://suddendocs.samtec.com/catalog_english/fw_sm.pdf?_gl=1*1xtxv9c*_gcl_au*MTM0MTYyNTQ5MS4xNzM2MDk5MTUz*_ga*MTYxNDYyMTQ0Mi4xNzM2MDk5MTUz*_ga_3KFNZC07WW*MTczODE2NTI0NS4zMi4xLjE3MzgxNjU1NjMuNjAuMC4w"
 				(at 5.08 -25.4 0)
 				(show_name)
 				(effects
@@ -1656,7 +1656,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Samtec CLP-1xx-02-G-D-BE series,  14 positions connector,  1.27 mm pitch,  Black,  Vertical mounting,  5.2 A,  300 V,  Through Hole,  Tin plated"
+			(property "Description" "Samtec FW-xx-03-G-D-085-155 series,  14 positions connector,  1.27 mm pitch,  Black,  Vertical mounting,  5.2 A,  300 V,  Surface Mount,  Gold plated"
 				(at 5.08 -27.94 0)
 				(show_name)
 				(effects
@@ -1678,7 +1678,7 @@
 					(hide yes)
 				)
 			)
-			(property "Contact Plating" "Tin"
+			(property "Contact Plating" "Gold"
 				(at 5.08 -33.02 0)
 				(show_name)
 				(effects
@@ -1700,7 +1700,7 @@
 					(hide yes)
 				)
 			)
-			(property "MPN" "CLP-114-02-G-D-BE"
+			(property "MPN" "FW-14-03-G-D-085-155"
 				(at 5.08 -38.1 0)
 				(show_name)
 				(effects
@@ -1733,7 +1733,7 @@
 					(hide yes)
 				)
 			)
-			(property "Mounting Style" "Through Hole"
+			(property "Mounting Style" "Surface Mount"
 				(at 5.08 -45.72 0)
 				(show_name)
 				(effects
@@ -1777,7 +1777,7 @@
 					(hide yes)
 				)
 			)
-			(property "Series" "CLP-1xx-02-G-D-BE"
+			(property "Series" "FW-xx-03-G-D-085-155"
 				(at 5.08 -55.88 0)
 				(show_name)
 				(effects
@@ -1788,7 +1788,7 @@
 					(hide yes)
 				)
 			)
-			(property "Symbol Name" "J_CLP-114-02-G-D-BE"
+			(property "Symbol Name" "J_FW-14-03-G-D-085-155"
 				(at 5.08 -58.42 0)
 				(show_name)
 				(effects
@@ -1799,7 +1799,7 @@
 					(hide yes)
 				)
 			)
-			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/CLP-114-02-G-D-BE"
+			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/FW-14-03-G-D-085-155"
 				(at 5.08 -60.96 0)
 				(show_name)
 				(effects
@@ -1821,7 +1821,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "J_CLP-114-02-G-D-BE_0_0"
+			(symbol "J_FW-14-03-G-D-085-155_0_0"
 				(pin unspecified line
 					(at -5.08 16.51 0)
 					(length 2.54)
@@ -2327,7 +2327,7 @@
 					)
 				)
 			)
-			(symbol "J_CLP-114-02-G-D-BE_1_0"
+			(symbol "J_FW-14-03-G-D-085-155_1_0"
 				(rectangle
 					(start -2.54 19.05)
 					(end 2.54 -19.05)
@@ -8177,7 +8177,7 @@
 		)
 	)
 	(symbol
-		(lib_id "UNITED_CONNECTORS_DATA_BASE:J_CLP-102-02-G-D-BE")
+		(lib_id "UNITED_CONNECTORS_DATA_BASE:J_FW-02-03-G-D-085-315")
 		(at 289.56 201.93 0)
 		(mirror y)
 		(unit 1)
@@ -8195,7 +8195,7 @@
 				)
 			)
 		)
-		(property "Value" "CLP-102-02-G-D-BE"
+		(property "Value" "FW-02-03-G-D-085-315"
 			(at 289.56 195.58 0)
 			(effects
 				(font
@@ -8203,7 +8203,7 @@
 				)
 			)
 		)
-		(property "Footprint" "connector_footprints:CLP-102-02-G-D-BE"
+		(property "Footprint" "connector_footprints:FW-02-03-G-D-085-315"
 			(at 284.48 209.55 0)
 			(show_name yes)
 			(effects
@@ -8214,7 +8214,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://suddendocs.samtec.com/catalog_english/clp_sm.pdf?_gl=1*1y4jlr9*_gcl_au*MTM0MTYyNTQ5MS4xNzM2MDk5MTUz*_ga*MTYxNDYyMTQ0Mi4xNzM2MDk5MTUz*_ga_3KFNZC07WW*MTczNjY4MDQ4OS4xNS4xLjE3MzY2ODEzNzcuNjAuMC4w"
+		(property "Datasheet" "https://suddendocs.samtec.com/catalog_english/fw_sm.pdf?_gl=1*1xtxv9c*_gcl_au*MTM0MTYyNTQ5MS4xNzM2MDk5MTUz*_ga*MTYxNDYyMTQ0Mi4xNzM2MDk5MTUz*_ga_3KFNZC07WW*MTczODE2NTI0NS4zMi4xLjE3MzgxNjU1NjMuNjAuMC4w"
 			(at 284.48 212.09 0)
 			(show_name yes)
 			(effects
@@ -8225,7 +8225,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Samtec CLP-1xx-02-G-D-BE series,  2 positions connector,  1.27 mm pitch,  Black,  Vertical mounting,  5.2 A,  300 V,  Through Hole,  Tin plated"
+		(property "Description" "Samtec FW-xx-03-G-D-085-315 series,  2 positions connector,  1.27 mm pitch,  Black,  Vertical mounting,  5.2 A,  300 V,  Surface Mount,  Gold plated"
 			(at 284.48 214.63 0)
 			(show_name yes)
 			(effects
@@ -8247,7 +8247,7 @@
 				(hide yes)
 			)
 		)
-		(property "Contact Plating" "Tin"
+		(property "Contact Plating" "Gold"
 			(at 284.48 219.71 0)
 			(show_name yes)
 			(effects
@@ -8269,7 +8269,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CLP-102-02-G-D-BE"
+		(property "MPN" "FW-02-03-G-D-085-315"
 			(at 284.48 224.79 0)
 			(show_name yes)
 			(effects
@@ -8302,7 +8302,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mounting Style" "Through Hole"
+		(property "Mounting Style" "Surface Mount"
 			(at 284.48 232.41 0)
 			(show_name yes)
 			(effects
@@ -8346,7 +8346,7 @@
 				(hide yes)
 			)
 		)
-		(property "Series" "CLP-1xx-02-G-D-BE"
+		(property "Series" "FW-xx-03-G-D-085-315"
 			(at 284.48 242.57 0)
 			(show_name yes)
 			(effects
@@ -8357,7 +8357,7 @@
 				(hide yes)
 			)
 		)
-		(property "Symbol Name" "J_CLP-102-02-G-D-BE"
+		(property "Symbol Name" "J_FW-02-03-G-D-085-315"
 			(at 284.48 245.11 0)
 			(show_name yes)
 			(effects
@@ -8368,7 +8368,7 @@
 				(hide yes)
 			)
 		)
-		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/CLP-102-02-G-D-BE"
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/FW-02-03-G-D-085-315"
 			(at 284.48 247.65 0)
 			(show_name yes)
 			(effects
@@ -8945,7 +8945,7 @@
 		)
 	)
 	(symbol
-		(lib_id "UNITED_CONNECTORS_DATA_BASE:J_CLP-102-02-G-D-BE")
+		(lib_id "UNITED_CONNECTORS_DATA_BASE:J_FW-02-03-G-D-085-315")
 		(at 289.56 146.05 0)
 		(mirror y)
 		(unit 1)
@@ -8963,7 +8963,7 @@
 				)
 			)
 		)
-		(property "Value" "CLP-102-02-G-D-BE"
+		(property "Value" "FW-02-03-G-D-085-315"
 			(at 289.56 139.7 0)
 			(effects
 				(font
@@ -8971,7 +8971,7 @@
 				)
 			)
 		)
-		(property "Footprint" "connector_footprints:CLP-102-02-G-D-BE"
+		(property "Footprint" "connector_footprints:FW-02-03-G-D-085-315"
 			(at 284.48 153.67 0)
 			(show_name yes)
 			(effects
@@ -8982,7 +8982,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://suddendocs.samtec.com/catalog_english/clp_sm.pdf?_gl=1*1y4jlr9*_gcl_au*MTM0MTYyNTQ5MS4xNzM2MDk5MTUz*_ga*MTYxNDYyMTQ0Mi4xNzM2MDk5MTUz*_ga_3KFNZC07WW*MTczNjY4MDQ4OS4xNS4xLjE3MzY2ODEzNzcuNjAuMC4w"
+		(property "Datasheet" "https://suddendocs.samtec.com/catalog_english/fw_sm.pdf?_gl=1*1xtxv9c*_gcl_au*MTM0MTYyNTQ5MS4xNzM2MDk5MTUz*_ga*MTYxNDYyMTQ0Mi4xNzM2MDk5MTUz*_ga_3KFNZC07WW*MTczODE2NTI0NS4zMi4xLjE3MzgxNjU1NjMuNjAuMC4w"
 			(at 284.48 156.21 0)
 			(show_name yes)
 			(effects
@@ -8993,7 +8993,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Samtec CLP-1xx-02-G-D-BE series,  2 positions connector,  1.27 mm pitch,  Black,  Vertical mounting,  5.2 A,  300 V,  Through Hole,  Tin plated"
+		(property "Description" "Samtec FW-xx-03-G-D-085-315 series,  2 positions connector,  1.27 mm pitch,  Black,  Vertical mounting,  5.2 A,  300 V,  Surface Mount,  Gold plated"
 			(at 284.48 158.75 0)
 			(show_name yes)
 			(effects
@@ -9015,7 +9015,7 @@
 				(hide yes)
 			)
 		)
-		(property "Contact Plating" "Tin"
+		(property "Contact Plating" "Gold"
 			(at 284.48 163.83 0)
 			(show_name yes)
 			(effects
@@ -9037,7 +9037,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CLP-102-02-G-D-BE"
+		(property "MPN" "FW-02-03-G-D-085-315"
 			(at 284.48 168.91 0)
 			(show_name yes)
 			(effects
@@ -9070,7 +9070,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mounting Style" "Through Hole"
+		(property "Mounting Style" "Surface Mount"
 			(at 284.48 176.53 0)
 			(show_name yes)
 			(effects
@@ -9114,7 +9114,7 @@
 				(hide yes)
 			)
 		)
-		(property "Series" "CLP-1xx-02-G-D-BE"
+		(property "Series" "FW-xx-03-G-D-085-315"
 			(at 284.48 186.69 0)
 			(show_name yes)
 			(effects
@@ -9125,7 +9125,7 @@
 				(hide yes)
 			)
 		)
-		(property "Symbol Name" "J_CLP-102-02-G-D-BE"
+		(property "Symbol Name" "J_FW-02-03-G-D-085-315"
 			(at 284.48 189.23 0)
 			(show_name yes)
 			(effects
@@ -9136,7 +9136,7 @@
 				(hide yes)
 			)
 		)
-		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/CLP-102-02-G-D-BE"
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/FW-02-03-G-D-085-315"
 			(at 284.48 191.77 0)
 			(show_name yes)
 			(effects
@@ -9251,7 +9251,7 @@
 		)
 	)
 	(symbol
-		(lib_id "UNITED_CONNECTORS_DATA_BASE:J_CLP-114-02-G-D-BE")
+		(lib_id "UNITED_CONNECTORS_DATA_BASE:J_FW-14-03-G-D-085-155")
 		(at 129.54 163.83 0)
 		(mirror y)
 		(unit 1)
@@ -9259,6 +9259,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "3f0505c4-1b91-4318-855f-58b0b4803266")
 		(property "Reference" "J7"
 			(at 129.54 139.7 0)
@@ -9268,7 +9269,7 @@
 				)
 			)
 		)
-		(property "Value" "CLP-114-02-G-D-BE"
+		(property "Value" "FW-14-03-G-D-085-155"
 			(at 129.54 142.24 0)
 			(effects
 				(font
@@ -9276,7 +9277,7 @@
 				)
 			)
 		)
-		(property "Footprint" "connector_footprints:CLP-114-02-G-D-BE"
+		(property "Footprint" "connector_footprints:FW-14-03-G-D-085-155"
 			(at 124.46 186.69 0)
 			(show_name yes)
 			(effects
@@ -9287,7 +9288,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://suddendocs.samtec.com/catalog_english/clp_sm.pdf?_gl=1*1y4jlr9*_gcl_au*MTM0MTYyNTQ5MS4xNzM2MDk5MTUz*_ga*MTYxNDYyMTQ0Mi4xNzM2MDk5MTUz*_ga_3KFNZC07WW*MTczNjY4MDQ4OS4xNS4xLjE3MzY2ODEzNzcuNjAuMC4w"
+		(property "Datasheet" "https://suddendocs.samtec.com/catalog_english/fw_sm.pdf?_gl=1*1xtxv9c*_gcl_au*MTM0MTYyNTQ5MS4xNzM2MDk5MTUz*_ga*MTYxNDYyMTQ0Mi4xNzM2MDk5MTUz*_ga_3KFNZC07WW*MTczODE2NTI0NS4zMi4xLjE3MzgxNjU1NjMuNjAuMC4w"
 			(at 124.46 189.23 0)
 			(show_name yes)
 			(effects
@@ -9298,7 +9299,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Samtec CLP-1xx-02-G-D-BE series,  14 positions connector,  1.27 mm pitch,  Black,  Vertical mounting,  5.2 A,  300 V,  Through Hole,  Tin plated"
+		(property "Description" "Samtec FW-xx-03-G-D-085-155 series,  14 positions connector,  1.27 mm pitch,  Black,  Vertical mounting,  5.2 A,  300 V,  Surface Mount,  Gold plated"
 			(at 124.46 191.77 0)
 			(show_name yes)
 			(effects
@@ -9320,7 +9321,7 @@
 				(hide yes)
 			)
 		)
-		(property "Contact Plating" "Tin"
+		(property "Contact Plating" "Gold"
 			(at 124.46 196.85 0)
 			(show_name yes)
 			(effects
@@ -9342,7 +9343,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CLP-114-02-G-D-BE"
+		(property "MPN" "FW-14-03-G-D-085-155"
 			(at 124.46 201.93 0)
 			(show_name yes)
 			(effects
@@ -9375,7 +9376,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mounting Style" "Through Hole"
+		(property "Mounting Style" "Surface Mount"
 			(at 124.46 209.55 0)
 			(show_name yes)
 			(effects
@@ -9419,7 +9420,7 @@
 				(hide yes)
 			)
 		)
-		(property "Series" "CLP-1xx-02-G-D-BE"
+		(property "Series" "FW-xx-03-G-D-085-155"
 			(at 124.46 219.71 0)
 			(show_name yes)
 			(effects
@@ -9430,7 +9431,7 @@
 				(hide yes)
 			)
 		)
-		(property "Symbol Name" "J_CLP-114-02-G-D-BE"
+		(property "Symbol Name" "J_FW-14-03-G-D-085-155"
 			(at 124.46 222.25 0)
 			(show_name yes)
 			(effects
@@ -9441,7 +9442,7 @@
 				(hide yes)
 			)
 		)
-		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/CLP-114-02-G-D-BE"
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/FW-14-03-G-D-085-155"
 			(at 124.46 224.79 0)
 			(show_name yes)
 			(effects
@@ -10799,7 +10800,7 @@
 		)
 	)
 	(symbol
-		(lib_id "UNITED_CONNECTORS_DATA_BASE:J_CLP-104-02-G-D-BE")
+		(lib_id "UNITED_CONNECTORS_DATA_BASE:J_FW-04-03-G-D-085-315")
 		(at 167.64 31.75 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10816,7 +10817,7 @@
 				)
 			)
 		)
-		(property "Value" "CLP-104-02-G-D-BE"
+		(property "Value" "FW-04-03-G-D-085-315"
 			(at 167.64 22.86 0)
 			(effects
 				(font
@@ -10824,7 +10825,7 @@
 				)
 			)
 		)
-		(property "Footprint" "connector_footprints:CLP-104-02-G-D-BE"
+		(property "Footprint" "connector_footprints:FW-04-03-G-D-085-315"
 			(at 172.72 41.91 0)
 			(show_name yes)
 			(effects
@@ -10835,7 +10836,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://suddendocs.samtec.com/catalog_english/clp_sm.pdf?_gl=1*1y4jlr9*_gcl_au*MTM0MTYyNTQ5MS4xNzM2MDk5MTUz*_ga*MTYxNDYyMTQ0Mi4xNzM2MDk5MTUz*_ga_3KFNZC07WW*MTczNjY4MDQ4OS4xNS4xLjE3MzY2ODEzNzcuNjAuMC4w"
+		(property "Datasheet" "https://suddendocs.samtec.com/catalog_english/fw_sm.pdf?_gl=1*1xtxv9c*_gcl_au*MTM0MTYyNTQ5MS4xNzM2MDk5MTUz*_ga*MTYxNDYyMTQ0Mi4xNzM2MDk5MTUz*_ga_3KFNZC07WW*MTczODE2NTI0NS4zMi4xLjE3MzgxNjU1NjMuNjAuMC4w"
 			(at 172.72 44.45 0)
 			(show_name yes)
 			(effects
@@ -10846,7 +10847,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Samtec CLP-1xx-02-G-D-BE series,  4 positions connector,  1.27 mm pitch,  Black,  Vertical mounting,  5.2 A,  300 V,  Through Hole,  Tin plated"
+		(property "Description" "Samtec FW-xx-03-G-D-085-315 series,  4 positions connector,  1.27 mm pitch,  Black,  Vertical mounting,  5.2 A,  300 V,  Surface Mount,  Gold plated"
 			(at 172.72 46.99 0)
 			(show_name yes)
 			(effects
@@ -10868,7 +10869,7 @@
 				(hide yes)
 			)
 		)
-		(property "Contact Plating" "Tin"
+		(property "Contact Plating" "Gold"
 			(at 172.72 52.07 0)
 			(show_name yes)
 			(effects
@@ -10890,7 +10891,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CLP-104-02-G-D-BE"
+		(property "MPN" "FW-04-03-G-D-085-315"
 			(at 172.72 57.15 0)
 			(show_name yes)
 			(effects
@@ -10923,7 +10924,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mounting Style" "Through Hole"
+		(property "Mounting Style" "Surface Mount"
 			(at 172.72 64.77 0)
 			(show_name yes)
 			(effects
@@ -10967,7 +10968,7 @@
 				(hide yes)
 			)
 		)
-		(property "Series" "CLP-1xx-02-G-D-BE"
+		(property "Series" "FW-xx-03-G-D-085-315"
 			(at 172.72 74.93 0)
 			(show_name yes)
 			(effects
@@ -10978,7 +10979,7 @@
 				(hide yes)
 			)
 		)
-		(property "Symbol Name" "J_CLP-104-02-G-D-BE"
+		(property "Symbol Name" "J_FW-04-03-G-D-085-315"
 			(at 172.72 77.47 0)
 			(show_name yes)
 			(effects
@@ -10989,7 +10990,7 @@
 				(hide yes)
 			)
 		)
-		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/CLP-104-02-G-D-BE"
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/FW-04-03-G-D-085-315"
 			(at 172.72 80.01 0)
 			(show_name yes)
 			(effects
@@ -12771,7 +12772,7 @@
 		)
 	)
 	(symbol
-		(lib_id "UNITED_CONNECTORS_DATA_BASE:J_CLP-102-02-G-D-BE")
+		(lib_id "UNITED_CONNECTORS_DATA_BASE:J_FW-02-03-G-D-085-315")
 		(at 289.56 173.99 0)
 		(mirror x)
 		(unit 1)
@@ -12788,7 +12789,7 @@
 				)
 			)
 		)
-		(property "Value" "CLP-102-02-G-D-BE"
+		(property "Value" "FW-02-03-G-D-085-315"
 			(at 289.56 167.64 0)
 			(effects
 				(font
@@ -12796,7 +12797,7 @@
 				)
 			)
 		)
-		(property "Footprint" "connector_footprints:CLP-102-02-G-D-BE"
+		(property "Footprint" "connector_footprints:FW-02-03-G-D-085-315"
 			(at 294.64 166.37 0)
 			(show_name yes)
 			(effects
@@ -12807,7 +12808,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://suddendocs.samtec.com/catalog_english/clp_sm.pdf?_gl=1*1y4jlr9*_gcl_au*MTM0MTYyNTQ5MS4xNzM2MDk5MTUz*_ga*MTYxNDYyMTQ0Mi4xNzM2MDk5MTUz*_ga_3KFNZC07WW*MTczNjY4MDQ4OS4xNS4xLjE3MzY2ODEzNzcuNjAuMC4w"
+		(property "Datasheet" "https://suddendocs.samtec.com/catalog_english/fw_sm.pdf?_gl=1*1xtxv9c*_gcl_au*MTM0MTYyNTQ5MS4xNzM2MDk5MTUz*_ga*MTYxNDYyMTQ0Mi4xNzM2MDk5MTUz*_ga_3KFNZC07WW*MTczODE2NTI0NS4zMi4xLjE3MzgxNjU1NjMuNjAuMC4w"
 			(at 294.64 163.83 0)
 			(show_name yes)
 			(effects
@@ -12818,7 +12819,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Samtec CLP-1xx-02-G-D-BE series,  2 positions connector,  1.27 mm pitch,  Black,  Vertical mounting,  5.2 A,  300 V,  Through Hole,  Tin plated"
+		(property "Description" "Samtec FW-xx-03-G-D-085-315 series,  2 positions connector,  1.27 mm pitch,  Black,  Vertical mounting,  5.2 A,  300 V,  Surface Mount,  Gold plated"
 			(at 294.64 161.29 0)
 			(show_name yes)
 			(effects
@@ -12840,7 +12841,7 @@
 				(hide yes)
 			)
 		)
-		(property "Contact Plating" "Tin"
+		(property "Contact Plating" "Gold"
 			(at 294.64 156.21 0)
 			(show_name yes)
 			(effects
@@ -12862,7 +12863,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CLP-102-02-G-D-BE"
+		(property "MPN" "FW-02-03-G-D-085-315"
 			(at 294.64 151.13 0)
 			(show_name yes)
 			(effects
@@ -12895,7 +12896,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mounting Style" "Through Hole"
+		(property "Mounting Style" "Surface Mount"
 			(at 294.64 143.51 0)
 			(show_name yes)
 			(effects
@@ -12939,7 +12940,7 @@
 				(hide yes)
 			)
 		)
-		(property "Series" "CLP-1xx-02-G-D-BE"
+		(property "Series" "FW-xx-03-G-D-085-315"
 			(at 294.64 133.35 0)
 			(show_name yes)
 			(effects
@@ -12950,7 +12951,7 @@
 				(hide yes)
 			)
 		)
-		(property "Symbol Name" "J_CLP-102-02-G-D-BE"
+		(property "Symbol Name" "J_FW-02-03-G-D-085-315"
 			(at 294.64 130.81 0)
 			(show_name yes)
 			(effects
@@ -12961,7 +12962,7 @@
 				(hide yes)
 			)
 		)
-		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/CLP-102-02-G-D-BE"
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/FW-02-03-G-D-085-315"
 			(at 294.64 128.27 0)
 			(show_name yes)
 			(effects
@@ -13426,7 +13427,7 @@
 		)
 	)
 	(symbol
-		(lib_id "UNITED_CONNECTORS_DATA_BASE:J_CLP-102-02-G-D-BE")
+		(lib_id "UNITED_CONNECTORS_DATA_BASE:J_FW-02-03-G-D-085-315")
 		(at 289.56 118.11 0)
 		(mirror x)
 		(unit 1)
@@ -13444,7 +13445,7 @@
 				)
 			)
 		)
-		(property "Value" "CLP-102-02-G-D-BE"
+		(property "Value" "FW-02-03-G-D-085-315"
 			(at 289.56 111.76 0)
 			(effects
 				(font
@@ -13452,7 +13453,7 @@
 				)
 			)
 		)
-		(property "Footprint" "connector_footprints:CLP-102-02-G-D-BE"
+		(property "Footprint" "connector_footprints:FW-02-03-G-D-085-315"
 			(at 294.64 110.49 0)
 			(show_name yes)
 			(effects
@@ -13463,7 +13464,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://suddendocs.samtec.com/catalog_english/clp_sm.pdf?_gl=1*1y4jlr9*_gcl_au*MTM0MTYyNTQ5MS4xNzM2MDk5MTUz*_ga*MTYxNDYyMTQ0Mi4xNzM2MDk5MTUz*_ga_3KFNZC07WW*MTczNjY4MDQ4OS4xNS4xLjE3MzY2ODEzNzcuNjAuMC4w"
+		(property "Datasheet" "https://suddendocs.samtec.com/catalog_english/fw_sm.pdf?_gl=1*1xtxv9c*_gcl_au*MTM0MTYyNTQ5MS4xNzM2MDk5MTUz*_ga*MTYxNDYyMTQ0Mi4xNzM2MDk5MTUz*_ga_3KFNZC07WW*MTczODE2NTI0NS4zMi4xLjE3MzgxNjU1NjMuNjAuMC4w"
 			(at 294.64 107.95 0)
 			(show_name yes)
 			(effects
@@ -13474,7 +13475,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Samtec CLP-1xx-02-G-D-BE series,  2 positions connector,  1.27 mm pitch,  Black,  Vertical mounting,  5.2 A,  300 V,  Through Hole,  Tin plated"
+		(property "Description" "Samtec FW-xx-03-G-D-085-315 series,  2 positions connector,  1.27 mm pitch,  Black,  Vertical mounting,  5.2 A,  300 V,  Surface Mount,  Gold plated"
 			(at 294.64 105.41 0)
 			(show_name yes)
 			(effects
@@ -13496,7 +13497,7 @@
 				(hide yes)
 			)
 		)
-		(property "Contact Plating" "Tin"
+		(property "Contact Plating" "Gold"
 			(at 294.64 100.33 0)
 			(show_name yes)
 			(effects
@@ -13518,7 +13519,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CLP-102-02-G-D-BE"
+		(property "MPN" "FW-02-03-G-D-085-315"
 			(at 294.64 95.25 0)
 			(show_name yes)
 			(effects
@@ -13551,7 +13552,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mounting Style" "Through Hole"
+		(property "Mounting Style" "Surface Mount"
 			(at 294.64 87.63 0)
 			(show_name yes)
 			(effects
@@ -13595,7 +13596,7 @@
 				(hide yes)
 			)
 		)
-		(property "Series" "CLP-1xx-02-G-D-BE"
+		(property "Series" "FW-xx-03-G-D-085-315"
 			(at 294.64 77.47 0)
 			(show_name yes)
 			(effects
@@ -13606,7 +13607,7 @@
 				(hide yes)
 			)
 		)
-		(property "Symbol Name" "J_CLP-102-02-G-D-BE"
+		(property "Symbol Name" "J_FW-02-03-G-D-085-315"
 			(at 294.64 74.93 0)
 			(show_name yes)
 			(effects
@@ -13617,7 +13618,7 @@
 				(hide yes)
 			)
 		)
-		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/CLP-102-02-G-D-BE"
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/FW-02-03-G-D-085-315"
 			(at 294.64 72.39 0)
 			(show_name yes)
 			(effects
@@ -15046,7 +15047,7 @@
 		)
 	)
 	(symbol
-		(lib_id "UNITED_CONNECTORS_DATA_BASE:J_CLP-104-02-G-D-BE")
+		(lib_id "UNITED_CONNECTORS_DATA_BASE:J_FW-04-03-G-D-085-315")
 		(at 236.22 31.75 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15063,7 +15064,7 @@
 				)
 			)
 		)
-		(property "Value" "CLP-104-02-G-D-BE"
+		(property "Value" "FW-04-03-G-D-085-315"
 			(at 236.22 22.86 0)
 			(effects
 				(font
@@ -15071,7 +15072,7 @@
 				)
 			)
 		)
-		(property "Footprint" "connector_footprints:CLP-104-02-G-D-BE"
+		(property "Footprint" "connector_footprints:FW-04-03-G-D-085-315"
 			(at 231.14 21.59 0)
 			(show_name yes)
 			(effects
@@ -15082,7 +15083,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://suddendocs.samtec.com/catalog_english/clp_sm.pdf?_gl=1*1y4jlr9*_gcl_au*MTM0MTYyNTQ5MS4xNzM2MDk5MTUz*_ga*MTYxNDYyMTQ0Mi4xNzM2MDk5MTUz*_ga_3KFNZC07WW*MTczNjY4MDQ4OS4xNS4xLjE3MzY2ODEzNzcuNjAuMC4w"
+		(property "Datasheet" "https://suddendocs.samtec.com/catalog_english/fw_sm.pdf?_gl=1*1xtxv9c*_gcl_au*MTM0MTYyNTQ5MS4xNzM2MDk5MTUz*_ga*MTYxNDYyMTQ0Mi4xNzM2MDk5MTUz*_ga_3KFNZC07WW*MTczODE2NTI0NS4zMi4xLjE3MzgxNjU1NjMuNjAuMC4w"
 			(at 231.14 19.05 0)
 			(show_name yes)
 			(effects
@@ -15093,7 +15094,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Samtec CLP-1xx-02-G-D-BE series,  4 positions connector,  1.27 mm pitch,  Black,  Vertical mounting,  5.2 A,  300 V,  Through Hole,  Tin plated"
+		(property "Description" "Samtec FW-xx-03-G-D-085-315 series,  4 positions connector,  1.27 mm pitch,  Black,  Vertical mounting,  5.2 A,  300 V,  Surface Mount,  Gold plated"
 			(at 231.14 16.51 0)
 			(show_name yes)
 			(effects
@@ -15115,7 +15116,7 @@
 				(hide yes)
 			)
 		)
-		(property "Contact Plating" "Tin"
+		(property "Contact Plating" "Gold"
 			(at 231.14 11.43 0)
 			(show_name yes)
 			(effects
@@ -15137,7 +15138,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CLP-104-02-G-D-BE"
+		(property "MPN" "FW-04-03-G-D-085-315"
 			(at 231.14 6.35 0)
 			(show_name yes)
 			(effects
@@ -15170,7 +15171,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mounting Style" "Through Hole"
+		(property "Mounting Style" "Surface Mount"
 			(at 231.14 -1.27 0)
 			(show_name yes)
 			(effects
@@ -15214,7 +15215,7 @@
 				(hide yes)
 			)
 		)
-		(property "Series" "CLP-1xx-02-G-D-BE"
+		(property "Series" "FW-xx-03-G-D-085-315"
 			(at 231.14 -11.43 0)
 			(show_name yes)
 			(effects
@@ -15225,7 +15226,7 @@
 				(hide yes)
 			)
 		)
-		(property "Symbol Name" "J_CLP-104-02-G-D-BE"
+		(property "Symbol Name" "J_FW-04-03-G-D-085-315"
 			(at 231.14 -13.97 0)
 			(show_name yes)
 			(effects
@@ -15236,7 +15237,7 @@
 				(hide yes)
 			)
 		)
-		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/CLP-104-02-G-D-BE"
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/FW-04-03-G-D-085-315"
 			(at 231.14 -16.51 0)
 			(show_name yes)
 			(effects

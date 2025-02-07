@@ -3592,6 +3592,412 @@
 				)
 			)
 		)
+		(symbol "UNITED_MOUSE_BITES_DATA_BASE:mouse-bite-50mil-790mil"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "MB"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Value" "mouse-bite-midle-50mil-200mil"
+				(at 0 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "mouse_bite_footprints:mouse-bite-50mil-790mil"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "mouse-bite-50mil-790mil_1_1"
+				(arc
+					(start -30.4837 -2.54)
+					(mid -28.1817 0)
+					(end -30.4837 2.54)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center -30.4837 0)
+					(radius 0.3592)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center -26.67 1.27)
+					(radius 1.27)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center -22.86 -1.27)
+					(radius 1.27)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center -19.05 -1.27)
+					(radius 1.27)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center -15.24 -1.27)
+					(radius 1.27)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center -11.43 -1.27)
+					(radius 1.27)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center -7.62 -1.27)
+					(radius 1.27)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center -3.81 -1.27)
+					(radius 1.27)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 0 -1.27)
+					(radius 1.27)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 3.81 -1.27)
+					(radius 1.27)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 7.62 -1.27)
+					(radius 1.27)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 11.43 -1.27)
+					(radius 1.27)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 15.24 -1.27)
+					(radius 1.27)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 19.05 -1.27)
+					(radius 1.27)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 22.86 -1.27)
+					(radius 1.27)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 26.67 1.27)
+					(radius 1.27)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 30.48 0)
+					(radius 0.3592)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 30.48 2.54)
+					(mid 28.178 0)
+					(end 30.48 -2.54)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+		)
+		(symbol "UNITED_MOUSE_BITES_DATA_BASE:mouse-bite-midle-50mil-200mil"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "MB"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Value" "mouse-bite-midle-50mil-200mil"
+				(at 0 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "mouse_bite_footprints:mouse-bite-midle-50mil-200mil"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "mouse-bite-midle-50mil-200mil_1_1"
+				(arc
+					(start -7.5404 -2.54)
+					(mid -5.2384 0)
+					(end -7.5404 2.54)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center -7.5404 0)
+					(radius 0.3592)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center -3.81 -1.27)
+					(radius 1.27)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 0 1.27)
+					(radius 1.27)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 3.81 -1.27)
+					(radius 1.27)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 7.62 0)
+					(radius 0.3592)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 7.62 2.54)
+					(mid 5.318 0)
+					(end 7.62 -2.54)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+		)
 		(symbol "UNITED_TEST_POINTS:TestPoint_Castelated"
 			(pin_numbers hide)
 			(pin_names
@@ -7272,6 +7678,73 @@
 		)
 	)
 	(symbol
+		(lib_id "UNITED_MOUSE_BITES_DATA_BASE:mouse-bite-midle-50mil-200mil")
+		(at 322.58 146.05 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "092b36d0-5129-47b1-a007-02f8b1a3fa89")
+		(property "Reference" "MB2"
+			(at 327.66 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Value" "mouse-bite-midle-50mil-200mil"
+			(at 314.96 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "mouse_bite_footprints:mouse-bite-midle-50mil-200mil"
+			(at 317.5 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 322.58 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 322.58 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "minimal_ad74413r"
+				(path "/3d1a8eae-9f4e-4ae3-8a80-a6e3408e9f8d"
+					(reference "MB2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "UNITED_CAPACITORS_DATA_BASE:C_CL31B106KBHNNN#")
 		(at 191.77 43.18 180)
 		(unit 1)
@@ -8673,6 +9146,73 @@
 		)
 	)
 	(symbol
+		(lib_id "UNITED_MOUSE_BITES_DATA_BASE:mouse-bite-midle-50mil-200mil")
+		(at 137.16 34.29 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2fb317ab-73b5-4ec2-96bd-b8bc1d433daa")
+		(property "Reference" "MB6"
+			(at 132.08 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Value" "mouse-bite-midle-50mil-200mil"
+			(at 144.78 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "mouse_bite_footprints:mouse-bite-midle-50mil-200mil"
+			(at 142.24 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 137.16 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 137.16 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "minimal_ad74413r"
+				(path "/3d1a8eae-9f4e-4ae3-8a80-a6e3408e9f8d"
+					(reference "MB6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "UNITED_TEST_POINTS:TestPoint_Castelated")
 		(at 160.02 162.56 90)
 		(mirror x)
@@ -9814,6 +10354,73 @@
 		)
 	)
 	(symbol
+		(lib_id "UNITED_MOUSE_BITES_DATA_BASE:mouse-bite-midle-50mil-200mil")
+		(at 266.7 34.29 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "483cb08c-7f67-46d8-950c-1819aaa4ecd6")
+		(property "Reference" "MB5"
+			(at 271.78 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Value" "mouse-bite-midle-50mil-200mil"
+			(at 259.08 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "mouse_bite_footprints:mouse-bite-midle-50mil-200mil"
+			(at 261.62 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 266.7 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 266.7 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "minimal_ad74413r"
+				(path "/3d1a8eae-9f4e-4ae3-8a80-a6e3408e9f8d"
+					(reference "MB5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "UNITED_TEST_POINTS:TestPoint_Castelated")
 		(at 160.02 165.1 90)
 		(mirror x)
@@ -10070,6 +10677,140 @@
 			(project "minimal_ad74413r"
 				(path "/3d1a8eae-9f4e-4ae3-8a80-a6e3408e9f8d"
 					(reference "C5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "UNITED_MOUSE_BITES_DATA_BASE:mouse-bite-50mil-790mil")
+		(at 106.68 163.83 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "52a20653-0d6f-4860-bd69-3da5c592964d")
+		(property "Reference" "MB7"
+			(at 111.76 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Value" "mouse-bite-midle-50mil-200mil"
+			(at 99.06 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "mouse_bite_footprints:mouse-bite-50mil-790mil"
+			(at 101.6 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 106.68 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 106.68 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/3d1a8eae-9f4e-4ae3-8a80-a6e3408e9f8d"
+					(reference "MB7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "UNITED_MOUSE_BITES_DATA_BASE:mouse-bite-midle-50mil-200mil")
+		(at 322.58 173.99 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5510b6e9-a870-4bd3-9726-552eca689853")
+		(property "Reference" "MB3"
+			(at 327.66 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Value" "mouse-bite-midle-50mil-200mil"
+			(at 314.96 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "mouse_bite_footprints:mouse-bite-midle-50mil-200mil"
+			(at 317.5 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 322.58 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 322.58 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "minimal_ad74413r"
+				(path "/3d1a8eae-9f4e-4ae3-8a80-a6e3408e9f8d"
+					(reference "MB3")
 					(unit 1)
 				)
 			)
@@ -11714,6 +12455,73 @@
 		)
 	)
 	(symbol
+		(lib_id "UNITED_MOUSE_BITES_DATA_BASE:mouse-bite-midle-50mil-200mil")
+		(at 322.58 118.11 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "95cab859-fdd5-4d62-a30e-5f9dbc0cc06e")
+		(property "Reference" "MB1"
+			(at 327.66 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Value" "mouse-bite-midle-50mil-200mil"
+			(at 314.96 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "mouse_bite_footprints:mouse-bite-midle-50mil-200mil"
+			(at 317.5 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 322.58 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 322.58 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/3d1a8eae-9f4e-4ae3-8a80-a6e3408e9f8d"
+					(reference "MB1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "UNITED_TEST_POINTS:TestPoint_Castelated")
 		(at 160.02 154.94 90)
 		(mirror x)
@@ -11845,6 +12653,73 @@
 			(project "minimal_ad74413r"
 				(path "/3d1a8eae-9f4e-4ae3-8a80-a6e3408e9f8d"
 					(reference "#PWR02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "UNITED_MOUSE_BITES_DATA_BASE:mouse-bite-midle-50mil-200mil")
+		(at 322.58 201.93 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9a3d3fbb-7ad7-49da-b535-f35994ae3307")
+		(property "Reference" "MB4"
+			(at 327.66 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Value" "mouse-bite-midle-50mil-200mil"
+			(at 314.96 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "mouse_bite_footprints:mouse-bite-midle-50mil-200mil"
+			(at 317.5 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 322.58 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 322.58 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "minimal_ad74413r"
+				(path "/3d1a8eae-9f4e-4ae3-8a80-a6e3408e9f8d"
+					(reference "MB4")
 					(unit 1)
 				)
 			)

@@ -1237,306 +1237,6 @@
 				)
 			)
 		)
-		(symbol "UNITED_CONNECTORS_DATA_BASE:J_FW-02-03-G-D-085-315"
-			(pin_names
-				(offset 0.254)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J"
-				(at 5.08 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "FW-02-03-G-D-085-315"
-				(at 5.08 -5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Footprint" "connector_footprints:FW-02-03-G-D-085-315"
-				(at 5.08 -7.62 0)
-				(show_name)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://suddendocs.samtec.com/catalog_english/fw_sm.pdf?_gl=1*1xtxv9c*_gcl_au*MTM0MTYyNTQ5MS4xNzM2MDk5MTUz*_ga*MTYxNDYyMTQ0Mi4xNzM2MDk5MTUz*_ga_3KFNZC07WW*MTczODE2NTI0NS4zMi4xLjE3MzgxNjU1NjMuNjAuMC4w"
-				(at 5.08 -10.16 0)
-				(show_name)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Description" "Samtec FW-xx-03-G-D-085-315 series,  2 positions connector,  1.27 mm pitch,  Black,  Vertical mounting,  5.2 A,  300 V,  Surface Mount,  Gold plated"
-				(at 5.08 -12.7 0)
-				(show_name)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Color" "Black"
-				(at 5.08 -15.24 0)
-				(show_name)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Contact Plating" "Gold"
-				(at 5.08 -17.78 0)
-				(show_name)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Current Rating (A)" "5.2"
-				(at 5.08 -20.32 0)
-				(show_name)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "MPN" "FW-02-03-G-D-085-315"
-				(at 5.08 -22.86 0)
-				(show_name)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer" "Samtec"
-				(at 5.08 -25.4 0)
-				(show_name)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Mounting Angle" "Vertical"
-				(at 5.08 -27.94 0)
-				(show_name)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Mounting Style" "Surface Mount"
-				(at 5.08 -30.48 0)
-				(show_name)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Number of Rows" "2"
-				(at 5.08 -33.02 0)
-				(show_name)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Pin Count" "2"
-				(at 5.08 -35.56 0)
-				(show_name)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Pitch (mm)" "1.27"
-				(at 5.08 -38.1 0)
-				(show_name)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Series" "FW-xx-03-G-D-085-315"
-				(at 5.08 -40.64 0)
-				(show_name)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Symbol Name" "J_FW-02-03-G-D-085-315"
-				(at 5.08 -43.18 0)
-				(show_name)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/FW-02-03-G-D-085-315"
-				(at 5.08 -45.72 0)
-				(show_name)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Voltage Rating (V)" "300"
-				(at 5.08 -48.26 0)
-				(show_name)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(symbol "J_FW-02-03-G-D-085-315_0_0"
-				(pin unspecified line
-					(at -5.08 1.27 0)
-					(length 2.54)
-					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 5.08 1.27 180)
-					(length 2.54)
-					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at -5.08 -1.27 0)
-					(length 2.54)
-					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 5.08 -1.27 180)
-					(length 2.54)
-					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(symbol "J_FW-02-03-G-D-085-315_1_0"
-				(rectangle
-					(start -2.54 3.81)
-					(end 2.54 -3.81)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-		)
 		(symbol "UNITED_CONNECTORS_DATA_BASE:J_FW-14-03-G-D-085-155"
 			(pin_names
 				(offset 0.254)
@@ -9096,7 +8796,7 @@
 		)
 	)
 	(symbol
-		(lib_id "UNITED_CONNECTORS_DATA_BASE:J_FW-02-03-G-D-085-315")
+		(lib_id "UNITED_CONNECTORS_DATA_BASE:J_FW-02-03-G-D-085-155")
 		(at 285.75 207.01 90)
 		(mirror x)
 		(unit 1)
@@ -9115,7 +8815,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "FW-02-03-G-D-085-315"
+		(property "Value" "FW-02-03-G-D-085-155"
 			(at 290.83 208.2799 90)
 			(effects
 				(font
@@ -9124,7 +8824,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "connector_footprints:FW-02-03-G-D-085-315"
+		(property "Footprint" "connector_footprints:FW-02-03-G-D-085-155"
 			(at 293.37 212.09 0)
 			(show_name yes)
 			(effects
@@ -9146,7 +8846,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Samtec FW-xx-03-G-D-085-315 series,  2 positions connector,  1.27 mm pitch,  Black,  Vertical mounting,  5.2 A,  300 V,  Surface Mount,  Gold plated"
+		(property "Description" "Samtec FW-xx-03-G-D-085-155 series,  2 positions connector,  1.27 mm pitch,  Black,  Vertical mounting,  5.2 A,  300 V,  Surface Mount,  Gold plated"
 			(at 298.45 212.09 0)
 			(show_name yes)
 			(effects
@@ -9190,7 +8890,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "FW-02-03-G-D-085-315"
+		(property "MPN" "FW-02-03-G-D-085-155"
 			(at 308.61 212.09 0)
 			(show_name yes)
 			(effects
@@ -9267,7 +8967,7 @@
 				(hide yes)
 			)
 		)
-		(property "Series" "FW-xx-03-G-D-085-315"
+		(property "Series" "FW-xx-03-G-D-085-155"
 			(at 326.39 212.09 0)
 			(show_name yes)
 			(effects
@@ -9278,7 +8978,7 @@
 				(hide yes)
 			)
 		)
-		(property "Symbol Name" "J_FW-02-03-G-D-085-315"
+		(property "Symbol Name" "J_FW-02-03-G-D-085-155"
 			(at 328.93 212.09 0)
 			(show_name yes)
 			(effects
@@ -9289,7 +8989,7 @@
 				(hide yes)
 			)
 		)
-		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/FW-02-03-G-D-085-315"
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/FW-02-03-G-D-085-155"
 			(at 331.47 212.09 0)
 			(show_name yes)
 			(effects
@@ -9933,7 +9633,7 @@
 		)
 	)
 	(symbol
-		(lib_id "UNITED_CONNECTORS_DATA_BASE:J_FW-02-03-G-D-085-315")
+		(lib_id "UNITED_CONNECTORS_DATA_BASE:J_FW-02-03-G-D-085-155")
 		(at 285.75 151.13 90)
 		(mirror x)
 		(unit 1)
@@ -9952,7 +9652,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "FW-02-03-G-D-085-315"
+		(property "Value" "FW-02-03-G-D-085-155"
 			(at 290.83 152.3999 90)
 			(effects
 				(font
@@ -9961,7 +9661,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "connector_footprints:FW-02-03-G-D-085-315"
+		(property "Footprint" "connector_footprints:FW-02-03-G-D-085-155"
 			(at 293.37 156.21 0)
 			(show_name yes)
 			(effects
@@ -9983,7 +9683,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Samtec FW-xx-03-G-D-085-315 series,  2 positions connector,  1.27 mm pitch,  Black,  Vertical mounting,  5.2 A,  300 V,  Surface Mount,  Gold plated"
+		(property "Description" "Samtec FW-xx-03-G-D-085-155 series,  2 positions connector,  1.27 mm pitch,  Black,  Vertical mounting,  5.2 A,  300 V,  Surface Mount,  Gold plated"
 			(at 298.45 156.21 0)
 			(show_name yes)
 			(effects
@@ -10027,7 +9727,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "FW-02-03-G-D-085-315"
+		(property "MPN" "FW-02-03-G-D-085-155"
 			(at 308.61 156.21 0)
 			(show_name yes)
 			(effects
@@ -10104,7 +9804,7 @@
 				(hide yes)
 			)
 		)
-		(property "Series" "FW-xx-03-G-D-085-315"
+		(property "Series" "FW-xx-03-G-D-085-155"
 			(at 326.39 156.21 0)
 			(show_name yes)
 			(effects
@@ -10115,7 +9815,7 @@
 				(hide yes)
 			)
 		)
-		(property "Symbol Name" "J_FW-02-03-G-D-085-315"
+		(property "Symbol Name" "J_FW-02-03-G-D-085-155"
 			(at 328.93 156.21 0)
 			(show_name yes)
 			(effects
@@ -10126,7 +9826,7 @@
 				(hide yes)
 			)
 		)
-		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/FW-02-03-G-D-085-315"
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/FW-02-03-G-D-085-155"
 			(at 331.47 156.21 0)
 			(show_name yes)
 			(effects
@@ -13586,7 +13286,7 @@
 		)
 	)
 	(symbol
-		(lib_id "UNITED_CONNECTORS_DATA_BASE:J_FW-02-03-G-D-085-315")
+		(lib_id "UNITED_CONNECTORS_DATA_BASE:J_FW-02-03-G-D-085-155")
 		(at 285.75 179.07 270)
 		(mirror x)
 		(unit 1)
@@ -13605,7 +13305,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "FW-02-03-G-D-085-315"
+		(property "Value" "FW-02-03-G-D-085-155"
 			(at 290.83 180.3399 90)
 			(effects
 				(font
@@ -13614,7 +13314,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "connector_footprints:FW-02-03-G-D-085-315"
+		(property "Footprint" "connector_footprints:FW-02-03-G-D-085-155"
 			(at 278.13 173.99 0)
 			(show_name yes)
 			(effects
@@ -13636,7 +13336,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Samtec FW-xx-03-G-D-085-315 series,  2 positions connector,  1.27 mm pitch,  Black,  Vertical mounting,  5.2 A,  300 V,  Surface Mount,  Gold plated"
+		(property "Description" "Samtec FW-xx-03-G-D-085-155 series,  2 positions connector,  1.27 mm pitch,  Black,  Vertical mounting,  5.2 A,  300 V,  Surface Mount,  Gold plated"
 			(at 273.05 173.99 0)
 			(show_name yes)
 			(effects
@@ -13680,7 +13380,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "FW-02-03-G-D-085-315"
+		(property "MPN" "FW-02-03-G-D-085-155"
 			(at 262.89 173.99 0)
 			(show_name yes)
 			(effects
@@ -13757,7 +13457,7 @@
 				(hide yes)
 			)
 		)
-		(property "Series" "FW-xx-03-G-D-085-315"
+		(property "Series" "FW-xx-03-G-D-085-155"
 			(at 245.11 173.99 0)
 			(show_name yes)
 			(effects
@@ -13768,7 +13468,7 @@
 				(hide yes)
 			)
 		)
-		(property "Symbol Name" "J_FW-02-03-G-D-085-315"
+		(property "Symbol Name" "J_FW-02-03-G-D-085-155"
 			(at 242.57 173.99 0)
 			(show_name yes)
 			(effects
@@ -13779,7 +13479,7 @@
 				(hide yes)
 			)
 		)
-		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/FW-02-03-G-D-085-315"
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/FW-02-03-G-D-085-155"
 			(at 240.03 173.99 0)
 			(show_name yes)
 			(effects
@@ -14244,7 +13944,7 @@
 		)
 	)
 	(symbol
-		(lib_id "UNITED_CONNECTORS_DATA_BASE:J_FW-02-03-G-D-085-315")
+		(lib_id "UNITED_CONNECTORS_DATA_BASE:J_FW-02-03-G-D-085-155")
 		(at 285.75 123.19 270)
 		(mirror x)
 		(unit 1)
@@ -14263,7 +13963,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "FW-02-03-G-D-085-315"
+		(property "Value" "FW-02-03-G-D-085-155"
 			(at 290.83 124.4599 90)
 			(effects
 				(font
@@ -14272,7 +13972,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "connector_footprints:FW-02-03-G-D-085-315"
+		(property "Footprint" "connector_footprints:FW-02-03-G-D-085-155"
 			(at 278.13 118.11 0)
 			(show_name yes)
 			(effects
@@ -14294,7 +13994,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Samtec FW-xx-03-G-D-085-315 series,  2 positions connector,  1.27 mm pitch,  Black,  Vertical mounting,  5.2 A,  300 V,  Surface Mount,  Gold plated"
+		(property "Description" "Samtec FW-xx-03-G-D-085-155 series,  2 positions connector,  1.27 mm pitch,  Black,  Vertical mounting,  5.2 A,  300 V,  Surface Mount,  Gold plated"
 			(at 273.05 118.11 0)
 			(show_name yes)
 			(effects
@@ -14338,7 +14038,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "FW-02-03-G-D-085-315"
+		(property "MPN" "FW-02-03-G-D-085-155"
 			(at 262.89 118.11 0)
 			(show_name yes)
 			(effects
@@ -14415,7 +14115,7 @@
 				(hide yes)
 			)
 		)
-		(property "Series" "FW-xx-03-G-D-085-315"
+		(property "Series" "FW-xx-03-G-D-085-155"
 			(at 245.11 118.11 0)
 			(show_name yes)
 			(effects
@@ -14426,7 +14126,7 @@
 				(hide yes)
 			)
 		)
-		(property "Symbol Name" "J_FW-02-03-G-D-085-315"
+		(property "Symbol Name" "J_FW-02-03-G-D-085-155"
 			(at 242.57 118.11 0)
 			(show_name yes)
 			(effects
@@ -14437,7 +14137,7 @@
 				(hide yes)
 			)
 		)
-		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/FW-02-03-G-D-085-315"
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/FW-02-03-G-D-085-155"
 			(at 240.03 118.11 0)
 			(show_name yes)
 			(effects
@@ -15872,21 +15572,21 @@
 		(fields_autoplaced yes)
 		(uuid "fb20c457-ced5-4d38-bd30-5f0c668572bb")
 		(property "Reference" "J4"
-			(at 161.29 30.4799 90)
+			(at 171.45 30.4799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "FW-02-03-G-D-085-155"
-			(at 161.29 33.0199 90)
+			(at 171.45 33.0199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "connector_footprints:FW-02-03-G-D-085-155"

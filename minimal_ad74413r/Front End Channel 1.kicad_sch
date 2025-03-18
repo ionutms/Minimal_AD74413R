@@ -1,7 +1,7 @@
 (kicad_sch
-	(version 20231120)
+	(version 20250114)
 	(generator "eeschema")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(uuid "a915c22c-41af-40f8-a583-11c6500a4b2d")
 	(paper "A3")
 	(lib_symbols
@@ -259,6 +259,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "UNITED_CAPACITORS_DATA_BASE:C_CGA2B2NP02A221J050BA"
 			(pin_names
@@ -514,6 +515,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "UNITED_DIODES_DATA_BASE:CR_SBAV99WT1G"
 			(pin_names
@@ -651,6 +653,17 @@
 				)
 			)
 			(symbol "CR_SBAV99WT1G_1_0"
+				(circle
+					(center 0 0)
+					(radius 0.254)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
 				(polyline
 					(pts
 						(xy 6.35 1.905) (xy 6.35 0) (xy 3.81 1.905) (xy 3.81 0) (xy 0 0) (xy 0 1.27) (xy 0 0) (xy -3.81 0)
@@ -665,17 +678,6 @@
 						(type none)
 					)
 				)
-				(circle
-					(center 0 0)
-					(radius 0.254)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
 				(pin unspecified line
 					(at -10.16 0 0)
 					(length 3.81)
@@ -687,24 +689,6 @@
 						)
 					)
 					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 10.16 0 180)
-					(length 3.81)
-					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -730,7 +714,26 @@
 						)
 					)
 				)
+				(pin unspecified line
+					(at 10.16 0 180)
+					(length 3.81)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "UNITED_RESISTORS_DATA_BASE:R_ERA-2AEB202X"
 			(pin_names
@@ -937,18 +940,6 @@
 				)
 				(polyline
 					(pts
-						(xy 2.286 0) (xy 2.54 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
 						(xy -2.286 0) (xy -1.905 1.016) (xy -1.524 0) (xy -1.143 -1.016) (xy -0.762 0)
 					)
 					(stroke
@@ -974,6 +965,18 @@
 				(polyline
 					(pts
 						(xy 0.762 0) (xy 1.143 1.016) (xy 1.524 0) (xy 1.905 -1.016) (xy 2.286 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.286 0) (xy 2.54 0)
 					)
 					(stroke
 						(width 0)
@@ -1022,6 +1025,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "UNITED_RESISTORS_DATA_BASE:R_ERJ-2RKF1002X"
 			(pin_names
@@ -1228,18 +1232,6 @@
 				)
 				(polyline
 					(pts
-						(xy 2.286 0) (xy 2.54 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
 						(xy -2.286 0) (xy -1.905 1.016) (xy -1.524 0) (xy -1.143 -1.016) (xy -0.762 0)
 					)
 					(stroke
@@ -1265,6 +1257,18 @@
 				(polyline
 					(pts
 						(xy 0.762 0) (xy 1.143 1.016) (xy 1.524 0) (xy 1.905 -1.016) (xy 2.286 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.286 0) (xy 2.54 0)
 					)
 					(stroke
 						(width 0)
@@ -1313,6 +1317,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "UNITED_RESISTORS_DATA_BASE:R_ERJ-2RKF2001X"
 			(pin_names
@@ -1519,18 +1524,6 @@
 				)
 				(polyline
 					(pts
-						(xy 2.286 0) (xy 2.54 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
 						(xy -2.286 0) (xy -1.905 1.016) (xy -1.524 0) (xy -1.143 -1.016) (xy -0.762 0)
 					)
 					(stroke
@@ -1556,6 +1549,18 @@
 				(polyline
 					(pts
 						(xy 0.762 0) (xy 1.143 1.016) (xy 1.524 0) (xy 1.905 -1.016) (xy 2.286 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.286 0) (xy 2.54 0)
 					)
 					(stroke
 						(width 0)
@@ -1604,6 +1609,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "UNITED_RESISTORS_DATA_BASE:R_RT0805BRB07100RL"
 			(pin_names
@@ -1810,18 +1816,6 @@
 				)
 				(polyline
 					(pts
-						(xy 2.286 0) (xy 2.54 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
 						(xy -2.286 0) (xy -1.905 1.016) (xy -1.524 0) (xy -1.143 -1.016) (xy -0.762 0)
 					)
 					(stroke
@@ -1847,6 +1841,18 @@
 				(polyline
 					(pts
 						(xy 0.762 0) (xy 1.143 1.016) (xy 1.524 0) (xy 1.905 -1.016) (xy 2.286 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.286 0) (xy 2.54 0)
 					)
 					(stroke
 						(width 0)
@@ -1895,6 +1901,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "UNITED_TRANSISTORS_DATA_BASE:Q_ZXMP6A17E6TA"
 			(pin_names
@@ -2043,6 +2050,25 @@
 				)
 			)
 			(symbol "Q_ZXMP6A17E6TA_1_0"
+				(polyline
+					(pts
+						(xy -5.08 1.27) (xy -5.08 -6.35) (xy -5.08 0) (xy -2.54 0) (xy -2.032 0) (xy -2.032 -2.032) (xy -2.54 -2.032)
+						(xy -1.524 -2.032) (xy -2.032 -2.032) (xy -2.032 0) (xy -2.54 0) (xy -2.54 1.27) (xy -0.508 1.27)
+						(xy -0.508 0.762) (xy 0.508 1.27) (xy 0.508 0.762) (xy 0.508 1.27) (xy 2.54 1.27) (xy 2.54 0)
+						(xy 0 0) (xy -0.508 -1.016) (xy 0 -1.016) (xy 0 -2.032) (xy -0.508 -2.032) (xy 0.508 -2.032) (xy 0 -2.032)
+						(xy 0 -1.016) (xy 0.508 -1.016) (xy 0 0) (xy 2.032 0) (xy 2.032 -2.032) (xy 1.524 -2.032) (xy 2.54 -2.032)
+						(xy 2.032 -2.032) (xy 2.032 0) (xy 2.54 0) (xy 5.08 0) (xy 5.08 1.27) (xy 5.08 0) (xy 2.54 0)
+						(xy 2.54 1.27) (xy 0.508 1.27) (xy 0.508 1.778) (xy 0.508 1.27) (xy -0.508 1.778) (xy -0.508 1.27)
+						(xy -2.54 1.27) (xy -2.54 0) (xy -5.08 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
 				(circle
 					(center -2.54 0)
 					(radius 0.0254)
@@ -2057,25 +2083,6 @@
 				(polyline
 					(pts
 						(xy 0 -6.35) (xy 0 -2.54) (xy -2.54 -2.54) (xy 2.54 -2.54) (xy 0 -2.54) (xy 0 -6.35)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy -5.08 1.27) (xy -5.08 -6.35) (xy -5.08 0) (xy -2.54 0) (xy -2.032 0) (xy -2.032 -2.032) (xy -2.54 -2.032)
-						(xy -1.524 -2.032) (xy -2.032 -2.032) (xy -2.032 0) (xy -2.54 0) (xy -2.54 1.27) (xy -0.508 1.27)
-						(xy -0.508 0.762) (xy 0.508 1.27) (xy 0.508 0.762) (xy 0.508 1.27) (xy 2.54 1.27) (xy 2.54 0)
-						(xy 0 0) (xy -0.508 -1.016) (xy 0 -1.016) (xy 0 -2.032) (xy -0.508 -2.032) (xy 0.508 -2.032) (xy 0 -2.032)
-						(xy 0 -1.016) (xy 0.508 -1.016) (xy 0 0) (xy 2.032 0) (xy 2.032 -2.032) (xy 1.524 -2.032) (xy 2.54 -2.032)
-						(xy 2.032 -2.032) (xy 2.032 0) (xy 2.54 0) (xy 5.08 0) (xy 5.08 1.27) (xy 5.08 0) (xy 2.54 0)
-						(xy 2.54 1.27) (xy 0.508 1.27) (xy 0.508 1.778) (xy 0.508 1.27) (xy -0.508 1.778) (xy -0.508 1.27)
-						(xy -2.54 1.27) (xy -2.54 0) (xy -5.08 0)
 					)
 					(stroke
 						(width 0)
@@ -2144,42 +2151,6 @@
 					)
 				)
 				(pin unspecified line
-					(at 2.54 -6.35 180)
-					(length 2.54)
-					(name "G"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 7.62 1.27 180)
-					(length 2.54)
-					(name "S"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
 					(at -7.62 -3.81 0)
 					(length 2.54)
 					(name "D"
@@ -2215,13 +2186,54 @@
 						)
 					)
 				)
+				(pin unspecified line
+					(at 2.54 -6.35 180)
+					(length 2.54)
+					(name "G"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 7.62 1.27 180)
+					(length 2.54)
+					(name "S"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "power:GNDA"
 			(power)
-			(pin_numbers hide)
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
-				(offset 0) hide)
+				(offset 0)
+				(hide yes)
+			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -2312,6 +2324,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 	)
 	(junction
@@ -2979,7 +2992,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0a163d37-ea36-448c-a778-03b95ecbbb84")
-		(property "Reference" "Q2"
+		(property "Reference" "Q3"
 			(at 201.93 187.9599 90)
 			(effects
 				(font
@@ -3159,7 +3172,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1c4b0768-aab0-4507-842a-48b93c8e2e84")
-		(property "Reference" "C12"
+		(property "Reference" "C22"
 			(at 189.23 132.0799 90)
 			(effects
 				(font
@@ -3382,7 +3395,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "27b03465-5ab5-4b86-bd4a-fd49bdd7bbdf")
-		(property "Reference" "#PWR17"
+		(property "Reference" "#PWR11"
 			(at 185.42 182.88 0)
 			(effects
 				(font
@@ -3460,7 +3473,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "31b0aef1-dba9-4e36-969d-bab7f9234c13")
-		(property "Reference" "R1"
+		(property "Reference" "R20"
 			(at 198.12 146.05 0)
 			(effects
 				(font
@@ -3671,7 +3684,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4694effc-f8a1-4649-8d20-009f035da4c3")
-		(property "Reference" "#PWR16"
+		(property "Reference" "#PWR10"
 			(at 185.42 144.78 0)
 			(effects
 				(font
@@ -3749,7 +3762,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "52943cbd-f376-44d1-80ab-c649430a7117")
-		(property "Reference" "C10"
+		(property "Reference" "C24"
 			(at 199.39 93.98 0)
 			(effects
 				(font
@@ -3970,7 +3983,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5b48f9c4-1ac4-49b6-bf8c-6261f6700f1c")
-		(property "Reference" "R5"
+		(property "Reference" "R15"
 			(at 218.44 138.4299 90)
 			(effects
 				(font
@@ -4183,7 +4196,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "66aedcc4-e74b-483f-acd8-8727dcd6d9bb")
-		(property "Reference" "C8"
+		(property "Reference" "C25"
 			(at 232.41 113.0299 90)
 			(effects
 				(font
@@ -4406,7 +4419,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "81c34d38-78a3-438c-ad22-8e04a1f76a7a")
-		(property "Reference" "C6"
+		(property "Reference" "C28"
 			(at 189.23 170.1799 90)
 			(effects
 				(font
@@ -4629,7 +4642,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9d4c6d48-3180-4fba-a0e9-55405abb56df")
-		(property "Reference" "R3"
+		(property "Reference" "R18"
 			(at 198.12 158.75 0)
 			(effects
 				(font
@@ -4840,7 +4853,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c4623385-b6e5-47ca-93d1-fa5ccffd22dc")
-		(property "Reference" "R7"
+		(property "Reference" "R14"
 			(at 199.39 107.95 0)
 			(effects
 				(font
@@ -5051,7 +5064,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c48810b6-444b-4ad1-aede-975453230b9a")
-		(property "Reference" "#PWR18"
+		(property "Reference" "#PWR13"
 			(at 228.6 132.08 0)
 			(effects
 				(font
@@ -5128,7 +5141,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "dc667037-6ac3-47cf-a405-db059f71b3d9")
-		(property "Reference" "CR1"
+		(property "Reference" "CR4"
 			(at 215.9 181.61 0)
 			(effects
 				(font
@@ -5288,7 +5301,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e80bc453-31f9-4cd6-9907-0bd8bdb24d98")
-		(property "Reference" "R9"
+		(property "Reference" "R12"
 			(at 199.39 120.65 0)
 			(effects
 				(font

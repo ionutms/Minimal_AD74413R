@@ -526,7 +526,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": ".glb",
       "svg": "",
       "vrml": "minimal_ad74413r.wrl"
     },

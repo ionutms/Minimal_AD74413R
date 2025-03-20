@@ -7,7 +7,7 @@
         "command": "kicad-cli pcb export glb minimal_ad74413r.kicad_pcb --include-tracks --include-pads --include-zones --include-silkscreen --include-soldermask --fill-all-vias --cut-vias-in-body",
         "description": "",
         "ignore_exit_code": false,
-        "output_filename": "",
+        "output_filename": "a1edf474-b6b7-40a7-a8bd-316b8f1867aa.log",
         "record_output": true
       },
       "type": "special_execute"
@@ -32,6 +32,18 @@
         "description": "",
         "ignore_exit_code": false,
         "output_filename": "b64f521d-5735-4751-862a-b982b9c20113.log",
+        "record_output": true
+      },
+      "type": "special_execute"
+    },
+    {
+      "description": "",
+      "id": "34f583dd-1dc8-4b91-a706-2eaaa6377ed5",
+      "settings": {
+        "command": "kicad-cli pcb render minimal_ad74413r.kicad_pcb -o minimal_ad74413r_top.png --side top --background transparent --quality high --zoom 1.05 --pan '0,0,0'",
+        "description": "",
+        "ignore_exit_code": false,
+        "output_filename": "34f583dd-1dc8-4b91-a706-2eaaa6377ed5.log",
         "record_output": true
       },
       "type": "special_execute"

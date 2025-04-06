@@ -15826,21 +15826,21 @@
 		(fields_autoplaced yes)
 		(uuid "fb20c457-ced5-4d38-bd30-5f0c668572bb")
 		(property "Reference" "J4"
-			(at 171.45 30.4799 90)
+			(at 161.29 30.4799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "FW-02-03-G-D-085-155"
-			(at 171.45 33.0199 90)
+			(at 161.29 33.0199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "connector_footprints:FW-02-03-G-D-085-155"

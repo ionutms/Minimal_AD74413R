@@ -735,6 +735,195 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "UNITED_DIODES_DATA_BASE:D_SMCJ40A-CA"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "40 V"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "diode_footprints:DO-214AB-2"
+				(at 0 -7.62 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.st.com/resource/en/datasheet/smcj26a.pdf"
+				(at 0 -10.16 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "Bidirectional TVS SMD 40 V"
+				(at 0 -12.7 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Diode Type" "Bidirectional TVS"
+				(at 0 -15.24 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "MPN" "SMCJ40A/CA"
+				(at 0 -17.78 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "STMicroelectronics"
+				(at 0 -20.32 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Maximum DC Current (A)" "0.0"
+				(at 0 -22.86 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Series" "SMCJ"
+				(at 0 -25.4 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Symbol Name" "D_SMCJ40A-CA"
+				(at 0 -27.94 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/SMCJ40A/CA"
+				(at 0 -30.48 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(symbol "D_SMCJ40A-CA_1_0"
+				(polyline
+					(pts
+						(xy 3.81 0) (xy 2.54 0) (xy 2.54 1.905) (xy 0 0) (xy 0 1.27) (xy -0.635 1.905) (xy 0 1.27) (xy 0 0)
+						(xy -2.54 1.905) (xy -2.54 0) (xy -3.81 0) (xy -2.54 0) (xy -2.54 -1.905) (xy 0 0) (xy 0 -1.27)
+						(xy 0.635 -1.905) (xy 0 -1.27) (xy 0 0) (xy 2.54 -1.905) (xy 2.54 0)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 0 0)
+					(length 1.27)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 0 180)
+					(length 1.27)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "UNITED_RESISTORS_DATA_BASE:R_ERA-2AEB202X"
 			(pin_names
 				(offset 0.254)
@@ -2388,6 +2577,12 @@
 		(uuid "ec4b1662-b6d3-4fd2-ab79-37e558eda7aa")
 	)
 	(junction
+		(at 241.3 101.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f4b73fe6-f5cc-4e42-a6a3-57924d76579a")
+	)
+	(junction
 		(at 215.9 127)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2525,6 +2720,16 @@
 	)
 	(wire
 		(pts
+			(xy 241.3 101.6) (xy 254 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "789eda59-eb82-473d-9845-5174d9ef39bf")
+	)
+	(wire
+		(pts
 			(xy 152.4 165.1) (xy 185.42 165.1)
 		)
 		(stroke
@@ -2605,7 +2810,17 @@
 	)
 	(wire
 		(pts
-			(xy 228.6 101.6) (xy 254 101.6)
+			(xy 241.3 119.38) (xy 241.3 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a8bfad5d-b22a-4ffb-abb1-556dbe0256f6")
+	)
+	(wire
+		(pts
+			(xy 228.6 101.6) (xy 241.3 101.6)
 		)
 		(stroke
 			(width 0)
@@ -2742,6 +2957,16 @@
 			(type default)
 		)
 		(uuid "e7fd03b1-6feb-4057-b69b-76e9d63b0e0f")
+	)
+	(wire
+		(pts
+			(xy 241.3 101.6) (xy 241.3 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e993e441-840c-4b76-af33-62c8ae7746f4")
 	)
 	(wire
 		(pts
@@ -4844,6 +5069,84 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GNDA")
+		(at 241.3 125.73 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c16b4aef-8361-4813-805e-78a8932a5ba0")
+		(property "Reference" "#PWR023"
+			(at 241.3 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GNDA"
+			(at 241.3 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 241.3 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 241.3 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDA\" , analog ground"
+			(at 241.3 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fb97e180-1077-4be9-b622-9193f6622f2f")
+		)
+		(instances
+			(project "minimal_ad74413r"
+				(path "/3d1a8eae-9f4e-4ae3-8a80-a6e3408e9f8d/215a75b8-84cc-467b-b211-24faa4125349"
+					(reference "#PWR025")
+					(unit 1)
+				)
+				(path "/3d1a8eae-9f4e-4ae3-8a80-a6e3408e9f8d/471bb7b7-cd79-4b45-b5fa-ce18ba37980a"
+					(reference "#PWR023")
+					(unit 1)
+				)
+				(path "/3d1a8eae-9f4e-4ae3-8a80-a6e3408e9f8d/77ed2068-19f4-4838-81a2-88ec2b717aa2"
+					(reference "#PWR026")
+					(unit 1)
+				)
+				(path "/3d1a8eae-9f4e-4ae3-8a80-a6e3408e9f8d/ed3c01a7-dc5a-420d-9436-94dfdef482d0"
+					(reference "#PWR024")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "UNITED_RESISTORS_DATA_BASE:R_ERJ-2RKF2001X")
 		(at 199.39 114.3 180)
 		(unit 1)
@@ -5497,6 +5800,171 @@
 				)
 				(path "/3d1a8eae-9f4e-4ae3-8a80-a6e3408e9f8d/ed3c01a7-dc5a-420d-9436-94dfdef482d0"
 					(reference "R10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "UNITED_DIODES_DATA_BASE:D_SMCJ40A-CA")
+		(at 241.3 114.3 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e8873eb1-0050-4774-9741-1514bed4817f")
+		(property "Reference" "D12"
+			(at 245.11 113.0299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "40 V"
+			(at 245.11 115.5699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "diode_footprints:DO-214AB-2"
+			(at 248.92 114.3 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.st.com/resource/en/datasheet/smcj26a.pdf"
+			(at 251.46 114.3 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "Bidirectional TVS SMD 40 V"
+			(at 254 114.3 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Diode Type" "Bidirectional TVS"
+			(at 256.54 114.3 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SMCJ40A/CA"
+			(at 259.08 114.3 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "STMicroelectronics"
+			(at 261.62 114.3 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Maximum DC Current (A)" "0.0"
+			(at 264.16 114.3 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Series" "SMCJ"
+			(at 266.7 114.3 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Symbol Name" "D_SMCJ40A-CA"
+			(at 269.24 114.3 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/SMCJ40A/CA"
+			(at 271.78 114.3 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "14a796c1-d693-4bfb-9c74-0a98faa432a7")
+		)
+		(pin "1"
+			(uuid "8f0e7903-b5bc-43f5-a664-ce03e3959914")
+		)
+		(instances
+			(project "minimal_ad74413r"
+				(path "/3d1a8eae-9f4e-4ae3-8a80-a6e3408e9f8d/215a75b8-84cc-467b-b211-24faa4125349"
+					(reference "D14")
+					(unit 1)
+				)
+				(path "/3d1a8eae-9f4e-4ae3-8a80-a6e3408e9f8d/471bb7b7-cd79-4b45-b5fa-ce18ba37980a"
+					(reference "D12")
+					(unit 1)
+				)
+				(path "/3d1a8eae-9f4e-4ae3-8a80-a6e3408e9f8d/77ed2068-19f4-4838-81a2-88ec2b717aa2"
+					(reference "D15")
+					(unit 1)
+				)
+				(path "/3d1a8eae-9f4e-4ae3-8a80-a6e3408e9f8d/ed3c01a7-dc5a-420d-9436-94dfdef482d0"
+					(reference "D13")
 					(unit 1)
 				)
 			)

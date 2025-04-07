@@ -497,10 +497,12 @@
       "version": 4
     },
     "net_colors": {
+      "/3V3": "rgb(154, 219, 106)",
       "/CHANNEL_1": "rgb(0, 194, 0)",
       "/CHANNEL_2": "rgb(0, 194, 194)",
       "/CHANNEL_3": "rgb(194, 0, 194)",
       "/CHANNEL_4": "rgb(221, 133, 0)",
+      "/MVDD": "rgb(255, 94, 147)",
       "/SENSEHF_A": "rgb(0, 194, 0)",
       "/SENSEHF_B": "rgb(0, 194, 194)",
       "/SENSEHF_C": "rgb(194, 0, 194)",
@@ -514,7 +516,9 @@
       "/SENSEL_C": "rgb(194, 0, 194)",
       "/SENSEL_D": "rgb(221, 133, 0)",
       "/VDD_24V": "rgb(194, 0, 0)",
-      "GNDA": "rgb(72, 72, 72)"
+      "GND": "rgb(194, 194, 194)",
+      "GNDA": "rgb(72, 72, 72)",
+      "GNDD": "rgb(132, 132, 132)"
     },
     "netclass_assignments": null,
     "netclass_patterns": []

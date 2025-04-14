@@ -14269,6 +14269,7 @@
 	(symbol
 		(lib_id "UNITED_CONNECTORS_DATA_BASE:J_FW-02-03-G-D-085-155")
 		(at 215.9 34.29 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14295,7 +14296,7 @@
 			)
 		)
 		(property "Footprint" "connector_footprints:FW-02-03-G-D-085-155"
-			(at 223.52 29.21 0)
+			(at 223.52 39.37 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14306,7 +14307,7 @@
 			)
 		)
 		(property "Datasheet" "https://suddendocs.samtec.com/catalog_english/fw_sm.pdf?_gl=1*1xtxv9c*_gcl_au*MTM0MTYyNTQ5MS4xNzM2MDk5MTUz*_ga*MTYxNDYyMTQ0Mi4xNzM2MDk5MTUz*_ga_3KFNZC07WW*MTczODE2NTI0NS4zMi4xLjE3MzgxNjU1NjMuNjAuMC4w"
-			(at 226.06 29.21 0)
+			(at 226.06 39.37 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14317,7 +14318,7 @@
 			)
 		)
 		(property "Description" "Samtec FW-xx-03-G-D-085-155 series,  2 positions connector,  1.27 mm pitch,  Black,  Vertical mounting,  5.2 A,  300 V,  Surface Mount,  Gold plated"
-			(at 228.6 29.21 0)
+			(at 228.6 39.37 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14328,7 +14329,7 @@
 			)
 		)
 		(property "Color" "Black"
-			(at 231.14 29.21 0)
+			(at 231.14 39.37 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14339,7 +14340,7 @@
 			)
 		)
 		(property "Contact Plating" "Gold"
-			(at 233.68 29.21 0)
+			(at 233.68 39.37 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14350,7 +14351,7 @@
 			)
 		)
 		(property "Current Rating (A)" "5.2"
-			(at 236.22 29.21 0)
+			(at 236.22 39.37 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14361,7 +14362,7 @@
 			)
 		)
 		(property "MPN" "FW-02-03-G-D-085-155"
-			(at 238.76 29.21 0)
+			(at 238.76 39.37 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14372,7 +14373,7 @@
 			)
 		)
 		(property "Manufacturer" "Samtec"
-			(at 241.3 29.21 0)
+			(at 241.3 39.37 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14383,7 +14384,7 @@
 			)
 		)
 		(property "Mounting Angle" "Vertical"
-			(at 243.84 29.21 0)
+			(at 243.84 39.37 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14394,7 +14395,7 @@
 			)
 		)
 		(property "Mounting Style" "Surface Mount"
-			(at 246.38 29.21 0)
+			(at 246.38 39.37 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14405,7 +14406,7 @@
 			)
 		)
 		(property "Number of Rows" "2"
-			(at 248.92 29.21 0)
+			(at 248.92 39.37 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14416,7 +14417,7 @@
 			)
 		)
 		(property "Pin Count" "2"
-			(at 251.46 29.21 0)
+			(at 251.46 39.37 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14427,7 +14428,7 @@
 			)
 		)
 		(property "Pitch (mm)" "1.27"
-			(at 254 29.21 0)
+			(at 254 39.37 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14438,7 +14439,7 @@
 			)
 		)
 		(property "Series" "FW-xx-03-G-D-085-155"
-			(at 256.54 29.21 0)
+			(at 256.54 39.37 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14449,7 +14450,7 @@
 			)
 		)
 		(property "Symbol Name" "J_FW-02-03-G-D-085-155"
-			(at 259.08 29.21 0)
+			(at 259.08 39.37 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14460,7 +14461,7 @@
 			)
 		)
 		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/FW-02-03-G-D-085-155"
-			(at 261.62 29.21 0)
+			(at 261.62 39.37 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14471,7 +14472,7 @@
 			)
 		)
 		(property "Voltage Rating (V)" "300"
-			(at 264.16 29.21 0)
+			(at 264.16 39.37 0)
 			(show_name yes)
 			(effects
 				(font

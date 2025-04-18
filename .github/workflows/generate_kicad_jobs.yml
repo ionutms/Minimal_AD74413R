@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
 
 env:
-  DEFAULT_ZOOM_FACTOR: '0.9'
+  DEFAULT_ZOOM_FACTOR: '1.0'
 
 jobs:
   generate-kicad-outputs:

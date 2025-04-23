@@ -50,30 +50,6 @@
     },
     {
       "description": "",
-      "id": "bfc7bda9-7e9a-4603-8b47-46f2cf904bfc",
-      "settings": {
-        "command": "kicad-cli pcb render minimal_ad74413r.kicad_pcb -o docs\\pictures\\minimal_ad74413r_front.png --side front --background transparent --quality high --zoom 1.6 --pan '0,-1,0'",
-        "description": "",
-        "ignore_exit_code": false,
-        "output_filename": "export_front_png.log",
-        "record_output": true
-      },
-      "type": "special_execute"
-    },
-    {
-      "description": "",
-      "id": "d17f9f14-a22a-43c2-9c2e-d53bad81289c",
-      "settings": {
-        "command": "kicad-cli pcb render minimal_ad74413r.kicad_pcb -o docs\\pictures\\minimal_ad74413r_right.png --side right --background transparent --quality high --zoom 1.6 --pan '0,-1,0'",
-        "description": "",
-        "ignore_exit_code": false,
-        "output_filename": "export_right_png.log",
-        "record_output": true
-      },
-      "type": "special_execute"
-    },
-    {
-      "description": "",
       "id": "3f452c15-fff5-40b8-b7f4-b74f1103fd13",
       "settings": {
         "command": "kicad-cli sch export pdf minimal_ad74413r.kicad_sch -o docs\\schematics\\minimal_ad74413r.pdf -t gruvbox",

@@ -28,7 +28,7 @@
       "description": "",
       "id": "46e6ce2c-32b5-4188-b7b0-32112468610d",
       "settings": {
-        "command": "kicad-cli pcb render minimal_ad74413r.kicad_pcb -o docs\\pictures\\minimal_ad74413r_side.png --background transparent --quality high --rotate '-45,0,45' --zoom 0.9 --pan '0,-0.5,0'",
+        "command": "kicad-cli pcb render minimal_ad74413r.kicad_pcb -o docs\\pictures\\minimal_ad74413r_side.png --background transparent --quality high --rotate '-45,0,45' --zoom 1.1 --pan '0,-0.4,0'",
         "description": "",
         "ignore_exit_code": false,
         "output_filename": "export_side_png.log",
@@ -40,7 +40,7 @@
       "description": "",
       "id": "c641c62b-2e48-4c96-bec6-7b085a067742",
       "settings": {
-        "command": "kicad-cli pcb render minimal_ad74413r.kicad_pcb -o docs\\pictures\\minimal_ad74413r_top.png --side top --background transparent --quality high --zoom 0.9 --pan '0,0,0'",
+        "command": "kicad-cli pcb render minimal_ad74413r.kicad_pcb -o docs\\pictures\\minimal_ad74413r_top.png --side top --background transparent --quality high --zoom 1.1 --pan '0,0,0'",
         "description": "",
         "ignore_exit_code": false,
         "output_filename": "export_top_png.log",

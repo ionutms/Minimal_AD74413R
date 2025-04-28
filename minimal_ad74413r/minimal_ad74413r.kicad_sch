@@ -12341,7 +12341,7 @@
 		(uuid "1d8133d2-53d8-45e4-a6ce-5d8cd0ba11c0")
 	)
 	(label "GPO_B"
-		(at 72.39 264.16 0)
+		(at 72.39 261.62 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12531,7 +12531,7 @@
 		(uuid "4299a8fb-5d28-42a2-877b-043dac92cbf2")
 	)
 	(label "GPO_C"
-		(at 72.39 261.62 0)
+		(at 72.39 264.16 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12621,7 +12621,7 @@
 		(uuid "5395ef58-7f93-485d-96ec-4a9e104b1253")
 	)
 	(label "GPO_B_ISO"
-		(at 153.67 176.53 180)
+		(at 153.67 179.07 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12781,7 +12781,7 @@
 		(uuid "7e8c7eb3-7a28-4f3a-8c1b-f130a009f098")
 	)
 	(label "GPO_A"
-		(at 72.39 266.7 0)
+		(at 72.39 259.08 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12821,7 +12821,7 @@
 		(uuid "854e634c-e929-4188-b0bd-90278ff0b773")
 	)
 	(label "GPO_D"
-		(at 105.41 181.61 0)
+		(at 105.41 173.99 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12931,7 +12931,7 @@
 		(uuid "a3450974-0b72-46a4-9ef6-83462404d72f")
 	)
 	(label "GPO_B"
-		(at 105.41 176.53 0)
+		(at 105.41 179.07 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13091,7 +13091,7 @@
 		(uuid "c5d532f4-0437-41c1-84c2-a63a051d67ec")
 	)
 	(label "GPO_D_ISO"
-		(at 153.67 181.61 180)
+		(at 153.67 173.99 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13101,7 +13101,7 @@
 		(uuid "c626605b-5ed6-4f2d-98a9-6b60ff0a28a5")
 	)
 	(label "GPO_C"
-		(at 105.41 179.07 0)
+		(at 105.41 176.53 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13141,7 +13141,7 @@
 		(uuid "cef713e4-8e26-4e37-84fc-e29e5e97cba1")
 	)
 	(label "GPO_A"
-		(at 105.41 173.99 0)
+		(at 105.41 181.61 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13181,7 +13181,7 @@
 		(uuid "d3d62193-3409-4ffd-a7af-a0772762f2f6")
 	)
 	(label "GPO_C_ISO"
-		(at 153.67 179.07 180)
+		(at 153.67 176.53 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13231,7 +13231,7 @@
 		(uuid "d835c6a9-3674-4c2b-8703-0c4e3e438df5")
 	)
 	(label "GPO_D"
-		(at 72.39 259.08 0)
+		(at 72.39 266.7 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13331,7 +13331,7 @@
 		(uuid "ecb56eda-cfd4-4747-9038-51023920b181")
 	)
 	(label "GPO_A_ISO"
-		(at 153.67 173.99 180)
+		(at 153.67 181.61 180)
 		(effects
 			(font
 				(size 1.27 1.27)

@@ -4,23 +4,33 @@
 
 This repository contains a minimal KiCad design project for the Analog Devices AD74413R, a quad-channel, software-configurable input and output device. The project includes schematic designs and PCB layout files for implementing this versatile analog I/O device.
 
+## Disclaimer
+
+> [!NOTE]
+> This project is provided "as is" and without any warranty, express or implied. For more details, please see the [LICENSE](LICENSE) file.
+
 ## About the AD74413R
 
-The AD74413R is a highly integrated, 16-bit, quad-channel, software-configurable input/output device designed for process control applications. Key features include:
+The AD74413R from Analog Devices is a quad-channel, software-configurable input/output solution for building and process control applications. It integrates a 16-bit, sigma-delta (Σ-Δ) analog-to-digital converter (ADC) and four 13-bit digital-to-analog converters (DACs).
 
-- Quad-channel configurable analog I/O
-- Software-selectable input/output modes:
-  - 0 V to 10 V voltage output
-  - 0 mA to 24 mA current output
-  - 0 mA to 20 mA current output
-  - ±10 V voltage input
-  - 0 mA to 24 mA current input
-  - Resistance measurement (RTD)
-  - Digital input/output
-- Integrated diagnostic features
-- Compact 48-pin LFCSP package
-- Integrated ADC and DAC functionality
-- Configurable channel modes via SPI interface
+Key features include:
+
+- **Software-Configurable Channels:** Each of the four channels can be independently configured as:
+  - Analog Input (Voltage or Current)
+  - Analog Output (Voltage or Current)
+  - Digital Input
+  - Resistance Temperature Detector (RTD) and Thermocouple measurements
+- **Multiple Operating Modes:**
+  - Voltage Output: 0 V to 10 V
+  - Current Output: 0 mA to 24 mA
+  - Voltage Input: ±10 V
+  - Current Input: 0 mA to 24 mA (externally powered and loop-powered)
+  - Digital Input: Logic and loop-powered
+- **High Accuracy:** Includes a high-accuracy 2.5V internal reference.
+- **Robustness and Diagnostics:** Features on-chip diagnostics like open-circuit and short-circuit detection.
+- **HART Compatibility:** Compatible with HART (Highway Addressable Remote Transducer) protocol.
+- **Communication:** Uses a Serial Peripheral Interface (SPI) for configuration and data transfer.
+- **Operating Temperature Range:** -40°C to +105°C.
 
 ## Project Structure
 
@@ -41,16 +51,24 @@ minimal_ad74413r/
 └── KiCAD_Symbols_Generator/         # Submodule for symbol generation from CSV data
 ```
 
-## Features
+## Project Features
 
-This design provides a minimal implementation of the AD74413R with:
+This design provides a minimal implementation of the AD74413R with the following features:
 
-- Proper power supply connections (3.3V, AVDD, IOVDD)
-- Basic channel configuration with protection circuits
-- Standard footprint for the 48-pin LFCSP package
-- Interactive HTML BOM support
-- Comprehensive symbol library integration
-- 3D model support for visualization
+- **Power Supply:**
+  - AVDD: +24V
+  - AVSS: -24V
+  - IOVDD: +3.3V
+  - AVDD_REG and DVDD_REG: +1.8V (internally regulated)
+- **Channel Configuration:**
+  - Basic protection circuits for each of the four I/O channels.
+  - Support for all operating modes of the AD74413R.
+- **Bill of Materials (BOM):**
+  - Interactive HTML BOM (`ibom.html`) for easy component identification and sourcing.
+- **Libraries:**
+  - Comprehensive symbol and footprint libraries integrated as a submodule.
+- **3D Model:**
+  - Includes a 3D model of the board for better visualization.
 
 ## Getting Started
 
@@ -89,24 +107,6 @@ This design provides a minimal implementation of the AD74413R with:
 - **Channel schematic**: `Front End Channel 1.kicad_sch` - Detailed implementation of one channel with protection and filtering
 - **PCB layout**: `minimal_ad74413r.kicad_pcb` - Physical board design file with proper component placement
 - **Project configuration**: `minimal_ad74413r.kicad_pro` - KiCad project settings
-
-## Symbol and Footprint Libraries
-
-This project uses a comprehensive set of custom symbol and footprint libraries organized by component type:
-
-### Symbol Libraries (sym-lib-table):
-- UNITED_IC_ADI - Contains the AD74413R symbol and other Analog Devices components
-- UNITED_RESISTORS_DATA_BASE - Standard resistor symbols
-- UNITED_CAPACITORS_DATA_BASE - Standard capacitor symbols
-- And many others for different component types
-
-### Footprint Libraries (fp-lib-table):
-- analog_devices_footprints - Contains the 48-pin LFCSP footprint for AD74413R
-- resistor_footprints - Standard resistor footprints (0402, 0603, etc.)
-- capacitor_footprints - Standard capacitor footprints (0402, 0603, etc.)
-- And many others for different component types
-
-All libraries are provided through the KiCAD_Symbols_Generator submodule.
 
 ## Dependencies
 
